@@ -15,7 +15,7 @@ when you actively enlist the support of others.
 A Growth Mindset knows *"mistakes"* are simply
 a nessesary part of the creative process.
 
-## **NOURISHING THE MINDSET**
+## **NOURISHING THE MINDSET** ##
 
 - [x] **Learn** something new everyday
 - [x] Mentor someone **older** than yourself
@@ -23,9 +23,9 @@ a nessesary part of the creative process.
 - [x] Be like Banksy: Remember to **rest** when you are tired, not quit.
 
 
-![Aloysious a.k.a Alicia a.k.a MY FACE](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
+![MY FACE](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
-Image Description: 
+Image Description
 
 Aloysious looks through a large green fan leaf, 
 
