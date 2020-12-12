@@ -37,6 +37,4 @@ sun kisses their only visible eye, they are happy.
 
 [GitHub Portfolio](https://github.com/AL0YSI0US)
 
-[Hmnnnn, wonder where this leads to](https://www.cs.cmu.edu/~bingbin/)
-
 :space_invader: 
