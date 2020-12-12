@@ -15,7 +15,6 @@ when you actively enlist the support of others.
 A Growth Mindset knows *"mistakes"* are simply
 a nessesary part of the creative process.
 ## **MAINTAIN YOUR MINDSET**
-
 - [x] Learn something new everyday
 - [x] Mentor someone **older** than yourself
 - [x] Be mentored by someone **younger** than you
