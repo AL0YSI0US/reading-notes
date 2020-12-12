@@ -14,6 +14,9 @@ when you actively enlist the support of others.
 
 A Growth Mindset knows *"mistakes"* are simply
 a nessesary part of the creative process.
+
+:space_invader:
+
 ## **NOURISHING THE MINDSET**
 - [x] **Learn** something new everyday
 - [x] Mentor someone **older** than yourself
@@ -29,4 +32,4 @@ Aloysious looks through a large green fan leaf,
 
 sun kisses their only visible eye, they are happy.
 
-:space_invader:
+
