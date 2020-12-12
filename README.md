@@ -1,14 +1,14 @@
-# <div align="center"> **The Growth Mindset...**</div> 
+# **The Growth Mindset...**
 
 >Is resilient to change.
 
->>When it finishes a project,
->>it isn't actually complete
->>until it has sourced feedback.
+When it finishes a project,
+it isn't actually complete
+until it has sourced feedback.
 
->>>It Listens, takes notes, asks questions and understands that the real ***magic*** happens
+It Listens, takes notes, asks questions and understands that the real ***magic*** happens
 
->>>when you actively enlist the support of others.
+when you actively enlist the support of others.
 
 **Most importantly...**
 
