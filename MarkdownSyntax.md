@@ -51,7 +51,7 @@ To see more information on markdown syntax from John Gruber, visit  this page** 
 
 Term | Definition
 ------------ | -------------
-Professional Competencies | Continually brings fresh ideas to the table, Is versatile and enjoys a fast-paced environment, Has strong leadership qualities, Is a savvy problem solver, Is a lover of technology, Is naturally curious and a lifelong learner, Employs strong analysis skills
+Professional Competencies | These are the professional competencies, and the underlying proficiencies, that Code Fellows hiring partners have identified as most critical for technology professional roles.
 Proficiencies | Simply put, they're Skills: Analysis, General Programming Skills, Software Design, Software Debugging, Software Documentation, Software Testing, Problem Solving, Teamwork, Software Development Fundamentals, Software Development Process, Software Requirements, Programming, Languages, Networking Basics, Cross-Platform, Softwares, Data Structure and Algorithms, Text Editors, Integrated Development Environment (IDE)
 Canvas | is a course management system that supports online learning and teaching. It allows professors to post grades, information, and assignments online.
 Slack | Slack is basically a messaging app on steroids. It's meant for teams and workplaces can be used across multiple devices and platforms, and is equipped with robust features that allow you to not only chat one-on-one with associates but also in groups.
