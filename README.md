@@ -1,6 +1,6 @@
 # **The Growth Mindset...**
 
->Is resilient to change.
+Is resilient to change.
 
 When it finishes a project,
 it isn't actually complete
@@ -12,8 +12,8 @@ when you actively enlist the support of others.
 
 **Most importantly...**
 
->>>A Growth Mindset knows *"mistakes"* are simply
->>>a nessesary part of the creative process.
+A Growth Mindset knows *"mistakes"* are simply
+a nessesary part of the creative process.
 ## **MAINTAIN YOUR MINDSET**
 - [x] Learn something new everyday
 - [x] Mentor someone **older** than yourself
