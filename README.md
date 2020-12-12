@@ -1,6 +1,6 @@
-# **The Growth Mindset** 
+# <div align="center">**The Growth Mindset** 
 
- Is resilient to change.
+Is resilient to change.
 
 When it finishes a project,
 it isn't actually complete
@@ -29,6 +29,7 @@ sun kisses their only visible eye, they are happy.
 
 :space_invader:
 
+</div align="center">
 
 
 
