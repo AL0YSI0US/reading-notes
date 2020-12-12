@@ -1,18 +1,19 @@
-# <div align="center">**The Growth Mindset** 
+# <div align="center"> **The Growth Mindset...**</div> 
 
-Is resilient to change.
+>Is resilient to change.
 
-When it finishes a project,
-it isn't actually complete
-until it has sourced feedback.
+>>When it finishes a project,
+>>it isn't actually complete
+>>until it has sourced feedback.
 
-It Listens, takes notes, asks questions and understands that the real ***magic*** happens
-when you actively enlist the support of others.
+>>>It Listens, takes notes, asks questions and understands that the real ***magic*** happens
 
-Most importantly...
+>>>when you actively enlist the support of others.
 
-A Growth Mindset knows *"mistakes"* are simply
-a nessesary part of the creative process.
+**Most importantly...**
+
+>>>A Growth Mindset knows *"mistakes"* are simply
+>>>a nessesary part of the creative process.
 ## **MAINTAIN YOUR MINDSET**
 - [x] Learn something new everyday
 - [x] Mentor someone **older** than yourself
@@ -29,7 +30,7 @@ sun kisses their only visible eye, they are happy.
 
 :space_invader:
 
-</div align="center">
+
 
 
 
