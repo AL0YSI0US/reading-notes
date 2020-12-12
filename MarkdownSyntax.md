@@ -48,6 +48,7 @@ the Markdown source for the article text on this page here:
 To see more information on markdown syntax from John Gruber, visit  this page**[Daring Fireball](https://daringfireball.net/projects/markdown/syntax)**
 
 #### Shiny new Vocabulary ####
+
 Term | Definition
 ------------ | -------------
 Professional Competencies | Continually brings fresh ideas to the table, Is versatile and enjoys a fast-paced environment, Has strong leadership qualities, Is a savvy problem solver, Is a lover of technology, Is naturally curious and a lifelong learner, Employs strong analysis skills
