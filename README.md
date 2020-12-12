@@ -31,7 +31,8 @@ Aloysious looks through a large green fan leaf,
 
 sun kisses their only visible eye, they are happy.
 
-I fancy myself a rather Queer Parent, an Autigender and Veteran of Color who also happens to be Autistic.
+
+>**"I fancy myself a rather Queer Parent, an Autigender and Veteran of Color who also happens to be Autistic."**
 
 
 [GitHub Portfolio](https://al0ysi0us.github.io/Reading-Notes/)
