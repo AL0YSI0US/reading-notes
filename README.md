@@ -31,7 +31,11 @@ Aloysious looks through a large green fan leaf,
 
 sun kisses their only visible eye, they are happy.
 
+I fancy myself a Rather Queer Parent, an Autigender and Veteran of Color who also happens to be Autistic.
+
 
 :space_invader:
+
+[GitHub Portfolio](https://al0ysi0us.github.io/Reading-Notes/)
 
 [Hmnnnn, wonder where this leads to](https://www.cs.cmu.edu/~bingbin/)
