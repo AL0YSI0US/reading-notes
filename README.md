@@ -30,16 +30,3 @@ Aloysious looks through a large green fan leaf,
 sun kisses their only visible eye, they are happy.
 
 :space_invader:
-
-
-
-
-
-
-
-
-
-
-
-
-
