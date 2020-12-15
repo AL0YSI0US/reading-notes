@@ -20,7 +20,7 @@ a nessesary part of the creative process.
 - [x] **Learn** something new everyday
 - [x] Mentor someone **older** than yourself
 - [x] Be mentored by someone **younger** than you
-- [x] Be like Banksy: Remember to **rest** when you are tired, not quit.
+- [x] Be like Banksy: Remember to **rest** when you are tired, not ~quit~.
 
 
 ![MY FACE](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
@@ -34,8 +34,10 @@ sun kisses their only visible eye, they are happy.
 I fancy myself a Rather Queer Parent, an Autigender and Veteran of Color who also happens to be Autistic.
 
 
-:space_invader:
+>**"I fancy myself a rather Queer Parent, an Autigender and Veteran of Color who also happens to be Autistic."**
 
-[GitHub Portfolio](https://al0ysi0us.github.io/Reading-Notes/)
 
-[Hmnnnn, wonder where this leads to](https://www.cs.cmu.edu/~bingbin/)
+[GitHub Portfolio](https://github.com/AL0YSI0US)
+
+[Code_Fellows_102](CodeFellows_102.md)
+
