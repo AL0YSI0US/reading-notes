@@ -1,15 +1,14 @@
+# VCS / Git vs Github / Local vs Remote Clone / ACP / Deployment
 
-# Vocabulary
+## Vocabulary
 
 | **Term**| **Description** | 
 |  :----: |  ----  |   
-|   ----  |  ----  | 
-|   ----  |  ----  |
-|   ----  |  ----  |
-|   ----  |  ----  |
-|   ----  |  ----  |
-|   ----  |  ----  |
-|   ----  |  ----  |
+|   VCS  |  ----  | 
+|   Local  |  ----  |
+|   Remote Clone  |  ----  |
+|   ACP  |  ----  |
+|   Deployment  |  ----  |
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
