@@ -1,9 +1,7 @@
 Update CLI / Terminal / GUI / IDE VS Code / Abstraction 
 # The Coder's Computer
 
-[THE LINUX CHEAT](https://overapi.com/linux) 
-
-:electron:
+:electron: [THE LINUX CHEAT](https://overapi.com/linux) 
 
 > The computer is a bicycle for the mind.
 >
@@ -11,7 +9,7 @@ Update CLI / Terminal / GUI / IDE VS Code / Abstraction
 
 ## Reading Notes ##
 
-[Choosing a text editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+:mortar_board: [Choosing a text editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 **Text Editor**
 
@@ -21,13 +19,13 @@ allows you to write and manage text, especially the text that you write
 to build a web site. The text editor has to be one of the most
 important tools you can use as an aspiring web developer.
 
-[Linux Tutorial - 1. The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+:mortar_board: [Linux Tutorial - 1. The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
-[Linux Tutorial - 2. Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+:mortar_board: [Linux Tutorial - 2. Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
-[Linux Tutorial - 3. More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+:mortar_board: [Linux Tutorial - 3. More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
-[Linux Tutorial - 4. Manual Pages](https://ryanstutorials.net/linuxtutorial/manual.php)
+:mortar_board: [Linux Tutorial - 4. Manual Pages](https://ryanstutorials.net/linuxtutorial/manual.php)
 
 **Everything is a file under Linux**
 
