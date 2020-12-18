@@ -38,7 +38,7 @@ Image Description:
 
 
 
-:globe_with_meridians: [GitHub Portfolio](https://github.com/AL0YSI0US) :globe_with_meridians:
+[GitHub Portfolio](https://github.com/AL0YSI0US) 
 
 
 
