@@ -1,3 +1,5 @@
+:electron: [Git Master Cheat](https://overapi.com/git)
+
 # First things first, what is GitHub? #
 
 >"GitHub is a code hosting platform for version control and collaboration. 
