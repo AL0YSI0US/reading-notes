@@ -1,7 +1,9 @@
 Update CLI / Terminal / GUI / IDE VS Code / Abstraction 
 # The Coder's Computer
 
-[THE LINUX CHEAT](https://overapi.com/linux) :electron:
+[THE LINUX CHEAT](https://overapi.com/linux) 
+
+:electron:
 
 > The computer is a bicycle for the mind.
 >
