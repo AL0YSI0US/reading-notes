@@ -1,5 +1,7 @@
 :electron: [Git Master Cheat](https://overapi.com/git)
 
+:mortar_board: [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
+
 # First things first, what is GitHub? #
 
 >"GitHub is a code hosting platform for version control and collaboration. 
