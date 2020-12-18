@@ -11,7 +11,7 @@ It listens, takes notes, asks questions and understands that the real ***magic**
 when you actively enlist the support of others.
 
 
-**Most importantly,**
+## **Most importantly,** ##
 
 A Growth Mindset knows *"mistakes"* are simply
 a nessesary part of the creative process.
