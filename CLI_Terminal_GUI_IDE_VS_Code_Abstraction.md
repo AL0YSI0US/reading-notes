@@ -94,6 +94,6 @@ as important as the extension (the “.html” and the “.css”).**
 
 
 
-[Code 102 Table of Contents](codefellows_102.md)
+[Code 102 Table of Contents](CodeFellows_102.md)
 
 [<== Back](README.md)
