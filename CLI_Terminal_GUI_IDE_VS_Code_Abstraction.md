@@ -55,7 +55,7 @@ important tools you can use as an aspiring web developer.
 
 ## Vocabulary
 
-|**Term**|**Description**| 
+|**Term**|**Context**| 
 |  :----: |  ----  |   
 |   CLI  | **Command Line Interface** processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. Operating systems implement a command-line interface in a shell for interactive access to operating system functions or services. Such access was primarily provided to users by computer terminals starting in the mid-1960s, and continued to be used throughout the 1970s and 1980s on VAX/VMS, Unix systems and personal computer systems including DOS, CP/M and Apple DOS.| 
 |   Terminal  | **Terminal.app** is the terminal emulator included in the macOS operating system by Apple. Terminal originated in NeXTSTEP and OPENSTEP, the predecessor operating systems of macOS. As a terminal emulator, the application provides text-based access to the operating system, in contrast to the mostly graphical nature of the user experience of macOS, by providing a command-line interface to the operating system when used in conjunction with a Unix shell, such as zsh (the default shell in macOS Catalina). The user can choose other shells available with macOS, such as the KornShell, tcsh, and bash. |
