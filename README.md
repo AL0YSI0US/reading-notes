@@ -27,19 +27,20 @@ a nessesary part of the creative process.
 
 ![MY FACE](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
-Image Description
+Image Description:
 
-Aloysious looks through a large green fan leaf, 
+*Aloysious looks through a large green fan leaf,*
 
-sun kisses their only visible eye, they are happy.
-
-I fancy myself a Rather Queer Parent, an Autigender and Veteran of Color who also happens to be Autistic.
+*sun kisses their only visible eye, they are happy.*
 
 
 >**"I fancy myself a rather Queer Parent, an Autigender and Veteran of Color who also happens to be Autistic."**
 
 
-[GitHub Portfolio](https://github.com/AL0YSI0US)
+
+:globe_with_meridians: [GitHub Portfolio](https://github.com/AL0YSI0US) :globe_with_meridians:
+
+
 
 [Code_Fellows_102](CodeFellows_102.md)
 
