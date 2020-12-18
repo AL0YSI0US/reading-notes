@@ -6,9 +6,7 @@ When it finishes a project,
 it isn't actually complete
 until it has sourced feedback.
 
-It listens, takes notes, asks questions 
-
-and understands that the real ***magic*** happens
+It listens, takes notes, asks questions and understands that the real ***magic*** happens
 
 when you actively enlist the support of others.
 
