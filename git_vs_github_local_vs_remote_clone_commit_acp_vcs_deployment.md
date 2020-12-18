@@ -3,11 +3,11 @@ Git vs Github / local vs Remote / Clone / Commit / ACP / VCS / Deployment
 ## Reading Notes ##
 :electron: [Git Master CHEAT](https://overapi.com/git)
 
-[Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#4_1)
+:mortar_board: [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#4_1)
 
-[Git Community Book](http://alx.github.io/gitbook/)
+:books: [Git Community Book](http://alx.github.io/gitbook/)
 
-[GUI Client Downloads] (https://git-scm.com/downloads/guis)
+:zap: [**GUI Client Downloads**] (https://git-scm.com/downloads/guis)
 
 | ***States***| Files in Git can reside in three main states: committed, modified and staged. | 
 |  :----: |  ----  |   
