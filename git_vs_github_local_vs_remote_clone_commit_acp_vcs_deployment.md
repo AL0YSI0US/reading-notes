@@ -59,4 +59,4 @@ The command above makes a copy of the target repository in a directory named “
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](html_markup_semantics_wireframe_personas_meta_content_element_tag_attribute_atructure_vs_presentation.md)
+[<== Home](README.md) [Forward ==>](html_markup_semantics_wireframe_personas_meta_content_element_tag_attribute_structure_vs_presentation.md)
