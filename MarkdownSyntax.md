@@ -2,6 +2,7 @@
 
 :mortar_board: [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
 
+:smirk: [emojis](https://gist.github.com/rxaviers/7360908)
 # First things first, what is GitHub? #
 
 >"GitHub is a code hosting platform for version control and collaboration. 
