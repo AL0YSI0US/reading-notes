@@ -6,6 +6,8 @@ HTML / Markup / Semantics / Wireframe / Personas / Meta / Content / Element / Ta
 
 :electron: [CSS MASTER CHEAT](https://overapi.com/css)
 
+:mortar_board: [HTML](https://html.spec.whatwg.org/multipage/)
+
 :mortar_board: [Beginner’s guide to CSS](https://friendlybit.com/css/beginners-guide-to-css-and-standards/)
 
 
