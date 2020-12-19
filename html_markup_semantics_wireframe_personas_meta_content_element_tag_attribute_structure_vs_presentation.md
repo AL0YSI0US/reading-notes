@@ -20,8 +20,8 @@ HTML / Markup / Semantics / Wireframe / Personas / Meta / Content / Element / Ta
 | Personas   | -----------        |
 | Meta      | -----------       |
 | Content   | -----------        |
-| Element | ----------- |
-| Tag      | -----------       |
+| Element | The HTML code is made up of characters that live inside angled brackets. These are called HTML **elements** Elements are usually made up of two ***tags***: an opening tag and a closing tag. (The closing tag has am extra forward slash in it.) Each HTML element tells the browser something about the information that sits between its opening and closing tags. ***the term "tag" and "element" are often used interchangebly*** |
+| Tag      | **Tags** are like containers. They tell you something about the information that lies between their opening and closing tags. ***the term "tag" and "element" are often used interchangebly***|
 | Attribute   | -----------        |
 | Structure   | -----------        |
 | Presentation | ----------- |
