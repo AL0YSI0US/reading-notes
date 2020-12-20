@@ -21,4 +21,4 @@ CSS / RGB / HSL / Hex codes / Layout / Rule / Selector / Property & value /Curly
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](404)
+[<== Home](README.md) [Forward ==>](dynamic_web_pages_with_javascript.md)
