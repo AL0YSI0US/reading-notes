@@ -7,7 +7,7 @@
 ](style_web_pages_with_css.md)
 6.  [JavaScript / Conditionals / Operators / Data Types / Variable](dynamic_web_pages_with_javascript.md)
 7.  [Script / Expression / Operator / Function / Declaration / Call / Parameters / Arguments / Return value / Refactoring](programming_with_jacascript.md)
-8.  [](insert address)
+8.  [Loop / While / For / Condition / Increment / Decrement](computer_logic_and_loops.md)
 9.  [](insert address)
 10. [](insert address)
 
