@@ -5,7 +5,7 @@
 4.  [HTML / Markup / Semantics / Wireframe / Personas / Meta / Content / Element / Tag / Attribute / Structure vs Presentation ](html_markup_semantics_wireframe_personas_meta_content_element_tag_attribute_structure_vs_presentation.md)
 5.  [CSS / RGB / HSL / Hex codes / Layout / Rule / Selector / Property & value /Curly braces
 ](style_web_pages_with_css.md)
-6.  [](insert address)
+6.  [JavaScript / Conditionals / Operators / Data Types / Variable](dynamic_web_pages_with_javascript.md)
 7.  [](insert address)
 8.  [](insert address)
 9.  [](insert address)
