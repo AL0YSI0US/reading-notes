@@ -9,7 +9,6 @@
 7.  [Script / Expression / Operator / Function / Declaration / Call / Parameters / Arguments / Return value / Refactoring](programming_with_jacascript.md)
 8.  [Loop / While / For / Condition / Increment / Decrement](computer_logic_and_loops.md)
 9.  [Career Coaching](career_coaching.md)
-10. [](insert address)
 
 [<== The Growth Mindset](README.md)
 
