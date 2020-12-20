@@ -6,7 +6,7 @@
 5.  [CSS / RGB / HSL / Hex codes / Layout / Rule / Selector / Property & value /Curly braces
 ](style_web_pages_with_css.md)
 6.  [JavaScript / Conditionals / Operators / Data Types / Variable](dynamic_web_pages_with_javascript.md)
-7.  [](insert address)
+7.  [Script / Expression / Operator / Function / Declaration / Call / Parameters / Arguments / Return value / Refactoring](programming_with_jacascript.md)
 8.  [](insert address)
 9.  [](insert address)
 10. [](insert address)
