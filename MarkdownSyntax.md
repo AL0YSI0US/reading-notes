@@ -61,7 +61,7 @@ Proficiencies | Simply put, they're Skills: Analysis, General Programming Skills
 Canvas | is a course management system that supports online learning and teaching. It allows professors to post grades, information, and assignments online.
 Slack | Slack is basically a messaging app on steroids. It's meant for teams and workplaces can be used across multiple devices and platforms, and is equipped with robust features that allow you to not only chat one-on-one with associates but also in groups.
 Growth mindset | To briefly sum up the findings: Individuals who believe their talents can be developed (through hard work, good strategies, and input from others) have a growth mindset. They tend to achieve more than those with a more fixed mindset (those who believe their talents are innate gifts)
-Fixed mindset |
+Fixed mindset | In a fixed mindset, people believe their qualities are fixed traits and therefore cannot change. These people document their intelligence and talents rather than working to develop and improve them. They also believe that talent alone leads to success, and effort is not required. |
 Repository | A software repository, or “repo” for short, is a storage location for software packages. Often a table of contents is stored, as well as metadata. Repositories group packages.
 Web publishing | Web publishing, or "online publishing," is the process of publishing content on the Internet. It includes creating and uploading websites, updating webpages, and posting blogs online. The published content may include text, images, videos, and other types of media.
 Path learning | is a collection of courses that are grouped together to ensure that learners master a particular topic or program.
