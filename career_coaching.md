@@ -2,12 +2,11 @@
 
 | ***Term*** | Context | 
 |  :----: |  ----  |   
-|  **Loop**  | ooo  | 
-|  **While**  | ooo  |
-|  **For**  | ooo  |
-|  **Condition**  | ooo  |
-|  **Increment**  | ooo  |
-|  **Decrement**  | ooo  |
+|  **Career Coaching**  | ooo  |
+|  **Professional etiquette**  | ooo  | 
+|  **Professional pitch**  | ooo  |
+|  **Professional networking**  | ooo  |
+|  **Behavioral interview**  | ooo  |
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
