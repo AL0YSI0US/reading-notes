@@ -1,4 +1,4 @@
-CSS / RGB / HSL / Hex codes / Layout / Rule / Selector / Property & value /Curly braces
+CSS / RGB / HSL / Hex codes / Layout / Rule / Selector / Property & value / Curly braces
 
 # Style Web Pages with CSS
 
