@@ -2,6 +2,10 @@ CSS / RGB / HSL / Hex codes / Layout / Rule / Selector / Property & value /Curly
 
 # Style Web Pages with CSS
 
+:electron: [CSS MASTER CHEAT](https://overapi.com/css)
+
+:mortar_board: [Beginner’s guide to CSS](https://friendlybit.com/css/beginners-guide-to-css-and-standards/)
+
 | ***Term*** | Context | 
 |  :----: |  ----  |   
 |  **CSS**  | ooo  | 
