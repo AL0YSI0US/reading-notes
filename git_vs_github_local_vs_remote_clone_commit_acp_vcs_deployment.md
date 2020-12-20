@@ -1,7 +1,7 @@
 Git vs Github / local vs Remote / Clone / Commit / ACP / VCS / Deployment
 
 ## Reading Notes ##
-:electron: [Git Master CHEAT](https://overapi.com/git)
+:electron: [GIT MASTER CHEAT](https://overapi.com/git)
 
 :mortar_board: [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#4_1)
 
