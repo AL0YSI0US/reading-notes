@@ -15,6 +15,8 @@ Git vs Github / local vs Remote / Clone / Commit / ACP / VCS / Deployment
 |   **Modified**  |  File has been changed but not committed to the database  |
 |   **Staged**  |  Flagged a file’s changed version to be committed in the next snapshot |
 
+> **Comit=** 'snapshot' / Timeline / '*save as*
+
 **There are three ways to get more information on a particular command, 
 by accessing the manual:**
 
