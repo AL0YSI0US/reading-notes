@@ -1,5 +1,11 @@
 CSS / RGB / HSL / Hex codes / Layout / Rule / Selector / Property & value / Curly braces
 
+**Skim**
++ Duckett: HTML & CSS, Chapter 10: Introducing CSS
+ 
+**Read**
++ Duckett: HTML & CSS, Chapter 11: Color
+
 # Style Web Pages with CSS
 
 :electron: [CSS MASTER CHEAT](https://overapi.com/css)
