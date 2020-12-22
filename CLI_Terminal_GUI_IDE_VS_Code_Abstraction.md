@@ -49,6 +49,10 @@ important tools you can use as an aspiring web developer.
  |  **~(tilde)** | This is a shortcut for your ***home directory***. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents |
  |  **.(dot)** | This is a reference to your ***current directory.*** eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy). |
  |  **..(dotdot)** | This is a reference to the ***parent directory.*** You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory. |
+ |  **/etc** | Stores config files for the system. |
+ |  **/var/log** | Stores log files for various system programs. (You may not have permission to look at everything in this directory. Don't let that stop you exploring though. A few error messages never hurt anyone.) |
+ |  **/bin** | The location of several commonly used programs (some of which we will learn about in the rest of this tutorial. |
+ |  **/usr/bin** | Another location for programs on the system. |
 
 ## Vocabulary
 
