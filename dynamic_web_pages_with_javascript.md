@@ -10,6 +10,8 @@ JavaScript / Conditionals / Operators / Data Types / Variable
 7. Test it locally, to ensure it’s working as expected. Troubleshoot as needed.
 8. Commit the result, and push it to your remote repo.
 
+[How computers work- Youtube](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
 # Dynamic Web Pages with JavaScript
 
 :mortar_board: [JAVASCRIPT MASTER CHEAT](https://overapi.com/javascript)
