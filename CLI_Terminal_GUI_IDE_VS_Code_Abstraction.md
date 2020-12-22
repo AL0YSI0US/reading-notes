@@ -39,17 +39,16 @@ important tools you can use as an aspiring web developer.
 
 - Beware of silly typos.
 
-[[    **file**    ]]
-
-- obtain information about what type of file a file or directory is.
-
-[[    **ls -a**     ]]
-
-- List the contents of a directory, including hidden files.
-
-## Class Agenda
-
- 
+|**command**|**result**| 
+|  :----: | ---- |
+|  **pwd** |  Print Working Directory - ie. Where are we currently.  | 
+|  **cd** |  Change Directories - ie. move to another directory.  | 
+|  **ls** |  List the contents of a directory.  | 
+|  **ls -a** |   List the contents of a directory, including hidden files.  | 
+|  **file** |  Obtain information about what type of file a file or directory is.  |
+ |  **~(tilde)** | This is a shortcut for your ***home directory***. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents |
+ |  **.(dot)** | This is a reference to your ***current directory.*** eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy). |
+ |  **..(dotdot)** | This is a reference to the ***parent directory.*** You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory. |
 
 ## Vocabulary
 
