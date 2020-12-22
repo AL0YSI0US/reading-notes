@@ -26,7 +26,13 @@ by accessing the manual:**
 
 # Revisions and the Cloud
 
-## blah blah
+## Local Repository Structure
+
+**The local Git repository has three components:**
+
+1. **Working Directory**: The actual files reside here.
+2. **Index**: The area used for staging
+3. **Head**: Points to the most recent commit
 
 
 
@@ -37,11 +43,20 @@ by accessing the manual:**
 |   VCS  |  **Version Control** is a **system** that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified.  | 
 |   Local  |  Many years ago, programmers created **Local Version Control systems**. A Local VCS entails one database on your hard disk that stores changes to files.  |
 |   CVCS  |  The need for collaboration within a developer team on a single file or set of files led to the advent of the **Centralized Version Control System (CVCS)**. This system entails a single server storing all changes and file versions, which can be accessed by various clients. This streamlined the collaboration process (by eliminating the need to involve all local databases), allowed programmers to have more knowledge of team members’ activities with certain files, and gave administrators much more control over divvying up revision privileges.  |
+|   Git  |  Git is a DVCS that stores data in a file system made up of ***snapshots***. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.  |
 |  Remote Repositories  |  In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.  |
 |  Cloned Repositories  |  As mentioned earlier, for cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local branch.  |
 |   Remote Clone  |  ----  |
 |   ACP  |  Agiile certified practitioner?  |
-|   Deployment  |  ----  |
+|   Deployment  |  ---- |
+
+## Steps to setup GitHub deployment ## 
+
+1. Go to your project's Code & Deploys page, in the Repository tab.
+2. Click the CONNECT TO GITHUB button to connect your project with GitHub. ...
+3. Connect to one of your GitHub repositories. ...
+4. Configure the deploy options. ...
+5. Deploy your project.  |
 
 ## Cloning ##
 **You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:**
