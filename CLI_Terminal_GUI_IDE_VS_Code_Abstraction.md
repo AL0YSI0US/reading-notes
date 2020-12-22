@@ -39,6 +39,14 @@ important tools you can use as an aspiring web developer.
 
 - Beware of silly typos.
 
+## Linux is an Extensionless System ##
+
+> A file extension is normally a set of 2 - 4 characters after a full stop at the end of a file, which denotes what type of file it is. The following are common extensions: 
+
+- file.exe - an executable file, or program.
+- file.txt - a plain text file.
+- file.png, file.gif, file.jpg - an image.
+
 |**command**|**result**| 
 |  :----: | ---- |
 |  **pwd** |  Print Working Directory - ie. Where are we currently.  | 
