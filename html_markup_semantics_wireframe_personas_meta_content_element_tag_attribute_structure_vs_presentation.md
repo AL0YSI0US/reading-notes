@@ -1,5 +1,17 @@
 HTML / Markup / Semantics / Wireframe / Personas / Meta / Content / Element / Tag / Attribute / Structure vs Presentation 
 
+**Read**
+
+-Duckett: HTML & CSS, ***Chapter 17. HTML5 Layout*** Note how these elements are common to the vast majority of web pages
+
+-Duckett: HTML & CSS, ***Chapter 8 . Extra Markup***
+
+-Duckett: HTML & CSS, ***Chapter 18. Process & Design***
+
+**Skim**
+
+- Duckett: ***HTML & CSS, Chapter 1: Structure***
+
 # Structure Web Pages with HTML
 
 ## HTML & CSS
