@@ -1,5 +1,11 @@
 Script / Expression / Operator / Function / Declaration / Call / Parameters / Arguments / Return value / Refactoring
 
+**Read**
++ Duckett: JavaScript & jQuery:
++ Intro + Scripts: Pages 1 - 24
++ Expressions + Operators: 74 - 79
++ Functions: 88 - 94
+
 # Programming with JavaScript
 
 :mortar_board: [JAVASCRIPT MASTER CHEAT](https://overapi.com/javascript)
