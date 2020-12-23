@@ -46,8 +46,7 @@ by accessing the manual:**
 
 > **VSCode** code editor 
 
-> **Visual Studio** huge packacge that is a complete IDE (Integrated Development Environment) 
-
+> **Visual Studio** huge package that is a complete IDE (Integrated Development Environment) it's a Tool being utilzed between the Terminal and GitHub
 
 ## Vocabulary
 
@@ -84,6 +83,20 @@ By cloning the file, you have copied all versions of all files for a project. Th
 
 The command above makes a copy of the target repository in a directory named “mydirectory.”
 
+>**Dummy guide | Beginning to end**
+1. ***Create*** a repo | This happens on GitHub [Ensure it has a README file]
+2. ***Copy*** the hyperlink of the repository from GitHub [ https ]
+3. [From the Terminal] **git clone "paste coppied repository https address here"**
+4. **ls** will now show the **README** file
+5. **code .** opens *Visual Studio*
+6. *Make the changes you wish to see happen out in the real world*
+7. **git status** at this phase will show you a RED Modified message
+8. **git add .** [adds all changes]
+9. **git status** at this phase will show you a GREEN Modified message
+10. **git commit -m** "this is where you state WHY you've made changes"
+11.  **git status** at this phase will convey modifications that have been made
+12. **git push origin main** This PUSHES from terminal to interwebs
+13. **git pull origin main** This PULLS from interwebs to Terminal
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
