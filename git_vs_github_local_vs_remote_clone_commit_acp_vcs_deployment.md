@@ -38,7 +38,7 @@ by accessing the manual:**
 
 > **MVN** Mode Vision Manager - This manages NPM
 
-> **Homebrew** - (install updates for this often)
+> **Homebrew** - (install updates for this often **)
 
 > **NodeJs** - Ties into NVM
 
@@ -97,6 +97,7 @@ The command above makes a copy of the target repository in a directory named “
 11.  **git status** at this phase will convey modifications that have been made
 12. **git push origin main** This PUSHES from terminal to interwebs
 13. **git pull origin main** This PULLS from interwebs to Terminal
+14. **git remote -v** shows you connected origin repository web address (fetch) (push)
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
