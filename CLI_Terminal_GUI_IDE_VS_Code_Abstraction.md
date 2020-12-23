@@ -109,8 +109,8 @@ example, **your main HTML file should be called, “index.html.” Your
 CSS file should be called something like “style.css.” The filename isn’t
 as important as the extension (the “.html” and the “.css”).**
 
-
-
 [Code 102 Table of Contents](CodeFellows_102.md)
 
 [<== Home](README.md) [Forward ==>](git_vs_github_local_vs_remote_clone_commit_acp_vcs_deployment.md)
+
+:books:

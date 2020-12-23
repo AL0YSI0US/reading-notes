@@ -49,7 +49,6 @@ by accessing the manual:**
 > **Visual Studio** huge packacge that is a complete IDE (Integrated Development Environment) 
 
 
-
 ## Vocabulary
 
 |**Term**|**Context**|  
