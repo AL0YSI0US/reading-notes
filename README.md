@@ -10,12 +10,10 @@ It listens, takes notes, asks questions and understands that the real ***magic**
 
 when you actively enlist the support of others.
 
-
 ## **Most importantly,** ##
 
 A Growth Mindset knows *"mistakes"* are simply
 a nessesary part of the creative process.
-
 
 ## **NOURISHING THE MINDSET** ##
 
@@ -23,7 +21,6 @@ a nessesary part of the creative process.
 - [x] Mentor someone **older** than yourself
 - [x] Be mentored by someone **younger** than you
 - [x] Be like Banksy: Remember to **rest** when you are tired, not ~quit~.
-
 
 ![MY FACE](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
@@ -36,11 +33,7 @@ Image Description:
 
 >**"I fancy myself a rather Queer Parent, an Autigender and Veteran of Color who also happens to be Autistic."**
 
-
-
 [GitHub Portfolio](https://github.com/AL0YSI0US) 
-
-
 
 [Code_Fellows_102](CodeFellows_102.md)
 
