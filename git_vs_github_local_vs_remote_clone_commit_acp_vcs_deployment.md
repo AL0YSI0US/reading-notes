@@ -59,7 +59,7 @@ by accessing the manual:**
 |  Remote Repositories  |  In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.  |
 |  Cloned Repositories  |  As mentioned earlier, for cloned repositories, Git will automatically give the name *“origin”* to the server from which you cloned and the name *“master”* to your local branch.  |
 |   Remote Clone  |  In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.  |
-|   ACP  |  ADD COMMIT PUSH *This is the flow for making changes to the repository from the Terminal*  |
+|   ACP  |  **ADD-COMMIT-PUSH** *This is the flow for making changes to the repository from the Terminal*  |
 |   Deployment  |  Git is a very popular version control system used to implement development workflows. The Cloudways Platform allows you to deploy code to your application from your git repositories. Your git repository must support git over SSH for this to work. |
 
 ## Steps to setup GitHub deployment ## 
