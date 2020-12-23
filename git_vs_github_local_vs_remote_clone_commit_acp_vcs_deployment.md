@@ -83,8 +83,8 @@ By cloning the file, you have copied all versions of all files for a project. Th
 
 The command above makes a copy of the target repository in a directory named “mydirectory.”
 
->**Dummy guide | Beginning to end** :books:
-1. ***Create*** a repo | This happens on GitHub [Ensure it has a README file]
+>**Dummy guide Beginning to end** :books:
+1. ***Create*** a repo *This happens on GitHub* [Ensure to include a README file]
 2. ***Copy*** the hyperlink of the repository from GitHub [ https ]
 3. [From the Terminal] **git clone "paste coppied repository https address here"**
 4. **ls** will now show the **README** file
