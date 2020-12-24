@@ -16,15 +16,21 @@ HTML / Markup / Semantics / Wireframe / Personas / Meta / Content / Element / Ta
 
     '<head>'
 
-       '<title>' This is the **Title** of the page '</title>'
+       '<title>' This is the Title of the page '</title>'
     
     '</head>'
     
         '<body>'
 
-        '<h1>' This is the **Body** of the page '</h1>'
+        '<h1>' This is the Body of the page, there are six headings H1-H6 '</h1>'
 
-        '<p>' Anything within the body of a webpage is displayed in the main browser window. '</p>'
+        ' <br /> ' line break tag'
+
+        ' <hr />' horizontal rule tag (a line on your page) 
+ 
+       <hr />
+
+        '<p>' Anything within the body of a webpage is displayed in the main browser window. The start of a paragraph always begins on a new line   '</p>'
 
         '</body>'
 
