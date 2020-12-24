@@ -5,8 +5,8 @@
 :smirk: [emojis](https://gist.github.com/rxaviers/7360908)
 # First things first, what is GitHub? #
 
->"GitHub is a code hosting platform for version control and collaboration. 
-It lets you and others work together on projects from anywhere." 
+>"GitHub is a code hosting platform for version control and collaboration.
+It lets you and others work together on projects from anywhere."
 
 **According to GitHub**
 
@@ -50,7 +50,7 @@ to look at a Markdown-formatted document. For example, you can view
 the Markdown source for the article text on this page here:
 <http://daringfireball.net/projects/markdown/index.text>
 
-To see more information on markdown syntax from John Gruber, visit  this page** [Daring Fireball](https://daringfireball.net/projects/markdown/syntax)**
+To see more information on markdown syntax from John Gruber, visit  this page [Daring Fireball](https://daringfireball.net/projects/markdown/syntax)
 
 #### Shiny new Vocabulary ####
 

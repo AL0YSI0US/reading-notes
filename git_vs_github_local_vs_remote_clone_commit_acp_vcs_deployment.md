@@ -9,15 +9,15 @@ Git vs Github / local vs Remote / Clone / Commit / ACP / VCS / Deployment
 
 :zap: [**GUI Client Downloads**] (https://git-scm.com/downloads/guis)
 
-| ***States***| Files in Git can reside in three main states: committed, modified and staged. | 
-|  :----: |  ----  |   
-|   **Committed**  |  Data is securely stored in a local database  | 
+| ***States***| Files in Git can reside in three main states: committed, modified and staged. |
+|  :----: |  ----  |
+|   **Committed**  |  Data is securely stored in a local database  |
 |   **Modified**  |  File has been changed but not committed to the database  |
 |   **Staged**  |  Flagged a file’s changed version to be committed in the next snapshot |
 
 > **Comit=** 'snapshot' / Timeline / '*save as*
 
-**There are three ways to get more information on a particular command, 
+**There are three ways to get more information on a particular command,
 by accessing the manual:**
 
 1. **git help** *command*
@@ -42,16 +42,16 @@ by accessing the manual:**
 
 > **NodeJs** - Ties into NVM
 
-> **Git** - allows access to github from local computer 
+> **Git** - allows access to github from local computer
 
-> **VSCode** code editor 
+> **VSCode** code editor
 
 > **Visual Studio** huge package that is a complete IDE (Integrated Development Environment) it's a Tool being utilzed between the Terminal and GitHub
 
 ## Vocabulary
 
 |**Term**|**Context**|  
-|  :----: |  ----  |   
+|  :----: |  ----  |
 |   VCS  |  **Version Control** is a **system** that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified.  | 
 |   Local  |  Many years ago, programmers created **Local Version Control systems**. A Local VCS entails one database on your hard disk that stores changes to files.  |
 |   CVCS  |  The need for collaboration within a developer team on a single file or set of files led to the advent of the **Centralized Version Control System (CVCS)**. This system entails a single server storing all changes and file versions, which can be accessed by various clients. This streamlined the collaboration process (by eliminating the need to involve all local databases), allowed programmers to have more knowledge of team members’ activities with certain files, and gave administrators much more control over divvying up revision privileges.  |
@@ -79,7 +79,7 @@ By cloning the file, you have copied all versions of all files for a project. Th
 
 **To clone a repository into a directory with another name of your choosing, use the following command format:**
 
-> $ git clone https://github.com/test mydirectory 
+> $ git clone https://github.com/test mydirectory
 
 The command above makes a copy of the target repository in a directory named “mydirectory.”
 
