@@ -12,7 +12,7 @@ HTML / Markup / Semantics / Wireframe / Personas / Meta / Content / Element / Ta
 
 :mortar_board: [Beginner’s guide to CSS](https://friendlybit.com/css/beginners-guide-to-css-and-standards/)
 
-![html example](https://dcl-wrangle.stanford.edu/images/rvest/html-example.png)
+![HTML PDF Cheat Sheet](https://overapi.com/static/cs/html-cheat-sheet.pdf)
 
 > HTML Example
 
