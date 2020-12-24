@@ -12,30 +12,9 @@ HTML / Markup / Semantics / Wireframe / Personas / Meta / Content / Element / Ta
 
 :mortar_board: [Beginner’s guide to CSS](https://friendlybit.com/css/beginners-guide-to-css-and-standards/)
 
-'<html>'
+![html example](https://dcl-wrangle.stanford.edu/images/rvest/html-example.png)
 
-    `<head>`
-
-        `<title>`  This is the Title of the page  `</title>`
-    
-    `</head>`
-    
-        `<body>`
-
-        `<h1>` This is the Body of the page, there are six headings H1-H6 `</h1>`
-
-         `<br />` line break tag
-
-         `<hr />` horizontal rule tag (a line on your page) 
- 
-       <hr />
-
-        `<p>` Anything within the body of a webpage is displayed in the main browser window. The start of a paragraph always begins on a new line   `</p>`
-<br /> `<b>  </b>` <b>BOLD</b> `<i> </i>` <i>ITALICIZED</i>
-
-        `</body>`
-
-        `</html>`
+> HTML Example
 
 |**Term**|**Context**| 
 | ----------- | ----------- |
