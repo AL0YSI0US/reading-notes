@@ -4,14 +4,16 @@ JavaScript / Conditionals / Operators / Data Types / Variable
 
 :mortar_board: [JAVASCRIPT MASTER CHEAT](https://overapi.com/javascript)
 
-[In JavaScript we have the following conditional statements:](https://www.w3schools.com/js/js_if_else.asp)
+In JavaScript we have the following conditional statements:
 
 Use **if** to specify a block of code to be executed, if a specified condition is true
 Use **else** to specify a block of code to be executed, if the same condition is false
 Use **else if** to specify a new condition to test, if the first condition is false
 Use **switch to** specify many alternative blocks of code to be executed
 
-## The if Statement (True)
+[W3Schools Condional Statements](https://www.w3schools.com/js/js_if_else.asp)
+
+## The if Statement ( True )
 
 Use the if statement to specify a block of JavaScript code to be executed if a condition is **true.**
 
@@ -23,7 +25,7 @@ if (condition) {
 
 }
 
-## The else Statement (False)
+## The else Statement ( False )
 
 Use the else statement to specify a block of code to be executed if the condition is **false.**
 
@@ -39,7 +41,7 @@ if (condition) {
 
 }
 
-## The else if Statement (1st condition is false)
+## The else if Statement ( 1st condition is false )
 
 Use the else if statement to specify a new condition if the first condition is false.
 
@@ -94,6 +96,8 @@ switch(expression) {
 
 ## OPERATORS
 
+[W3Schools Operators](https://www.w3schools.com/java/java_operators.asp)
+
 Java divides the **operators** into the following groups:
 
 + Arithmetic operators
@@ -101,12 +105,11 @@ Java divides the **operators** into the following groups:
 + Comparison operators
 + Logical operators
 + Bitwise operators
++ ***Operators are used to perform operations on variables and values.***
 
 ## Java Arithmetic Operators
 
 Arithmetic operators are used to perform common mathematical operations.
-
-![operators](https://www.flickr.com/photos/191552045@N06/50764009512/in/dateposted-public/)
 
 ## Java Assignment Operators
 
@@ -127,11 +130,80 @@ int x = 10;
 x += 5;
 ## Java Comparison Operators
 
+Comparison operators are used to compare two values:
+
 ## Java Logical Operators
+
+Logical operators are used to determine the logic between variables or values:
 
 ## Java Bitwise Operators
 
-![Assignment Operators](https://www.flickr.com/photos/191552045@N06/50763905366/in/dateposted-public/)
+Bitwise operators are used to perform binary logic with the bits of an integer or long integer.
+
+## JavaScript Variables
+
+[W3Schools Variables](https://www.w3schools.com/js/js_variables.asp)
+
+JavaScript variables are containers for storing data values.
+
+In this example, x, y, and z, are variables, declared with the var keyword:
+
+Example
+
+**var** x = **5**;
+
+**var** y = **6**;
+
+**var** z = x + y;
+
+From the example above, you can expect:
+
+x stores the value 5
+
+y stores the value 6
+
+z stores the value 11
+
+## DATA TYPES
+
+[W3Schools Data Types](https://www.w3schools.com/java/java_data_types.asp)
+
+> A variable in Java must be a specified data type.
+
+**Data types are divided into two groups:**
+
++ Primitive data types - includes byte, short, int, long, float, double, boolean and char
++ Non-primitive data types - such as String, Arrays and Classes
+
+## Primitive Data Types
+
+A primitive data type specifies the size and type of variable values, and it has no additional methods.
+
+There are ***eight primitive data types*** in Java:
+
+| **Data Type** | **Size** | **Description** |
+|  :----: |  :----:  | ----  |
+|  byte |  1 byte  | Stores whole numbers from -128 to 127  |
+|  short |  2 bytes  | Stores whole numbers from -32,768 to 32,767  |
+|  int |  4 bytes  | Stores whole numbers from -2,147,483,648 to 2,147,483,647  |
+|  long |  8 bytes  | Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807  |
+|  float |  4 bytes  | Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits  |
+|  double |  8 bytes  | Stores fractional numbers. Sufficient for storing 15 decimal digits  |
+|  boolean |  1 bit  | Stores true or false values  |
+|  char |  2 bytes  | Stores a single character/letter or ASCII values  |
+
+## Non-Primitive Data Types
+
+Non-primitive data types are called reference types because they refer to objects.
+
+**The main difference between primitive and non-primitive data types are:**
+
++ Primitive types are predefined (already defined) in Java. Non-primitive types are created by the programmer and is not defined by Java (except for String).
++ Non-primitive types can be used to call methods to perform certain operations, while primitive types cannot.
++ A primitive type has always a value, while non-primitive types can be null.
++ A primitive type starts with a lowercase letter, while non-primitive types starts with an uppercase letter.
++ The size of a primitive type depends on the data type, while non-primitive types have all the same size.
++ *Examples of non-primitive types are Strings, Arrays, Classes, Interface*
 
 [How computers work - Youtube](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 
@@ -141,9 +213,9 @@ x += 5;
 |  :----: |  ----  |
 |  **JavaScript**  | JavaScript is the Programming Language for the Web. JavaScript can update and change both HTML and CSS. JavaScript can calculate, manipulate and validate data.  |
 |  **conditionals**  | Conditional statements are used to perform different actions based on different conditions.  |
-|  **operators**  | ooo  |
-|  **data types**  | ooo  |
-|  **variable**  | ooo  |
+|  **operators**  | Operators are used to perform operations on variables and values.  |
+|  **data types**  | a variable in Java must be a specified data type (two types: Primitive/ Non-Primitive)  |
+|  **variable**  | JavaScript variables are containers for storing data values.  |
 
 **Read**
 
