@@ -1,6 +1,7 @@
 JavaScript / Conditionals / Operators / Data Types / Variable
 
 **Read**
+
 1. Duckett: JavaScript & jQuery, ***Pages 43 - 69.***
 2. DO ALONG: ***pages 46 - 49***
 3. Create a new repo on GitHub for the files you’ll be working with. Clone it locally.
@@ -16,9 +17,9 @@ JavaScript / Conditionals / Operators / Data Types / Variable
 
 :mortar_board: [JAVASCRIPT MASTER CHEAT](https://overapi.com/javascript)
 
-| ***Term*** | Context | 
-|  :----: |  ----  |   
-|  **JavaScript**  | ooo  | 
+| ***Term*** | Context |
+|  :----: |  ----  |
+|  **JavaScript**  | ooo  |
 |  **conditionals**  | ooo  |
 |  **operators**  | ooo  |
 |  **data types**  | ooo  |
