@@ -6,6 +6,7 @@
 5.  MOD 5 [CSS / RGB / HSL / Hex codes / Layout / Rule / Selector / Property & value /Curly braces
 ](style_web_pages_with_css.md)
 6.  MOD 6 [JavaScript / Conditionals / Operators / Data Types / Variable](dynamic_web_pages_with_javascript.md)
++ [How Computers Work](How_computers_work.md)
 7.  MOD 7 [Script / Expression / Operator / Function / Declaration / Call / Parameters / Arguments / Return value / Refactoring](programming_with_jacascript.md)
 8.  MOD 8 [Loop / While / For / Condition / Increment / Decrement](computer_logic_and_loops.md)
 9.  MOD 9 [Career Coaching](career_coaching.md)
