@@ -25,7 +25,7 @@ JavaScript / Conditionals / Operators / Data Types / Variable
 |  **data types**  | ooo  |
 |  **variable**  | ooo  |
 
-[How computers work](programming_with_jacascript.md)
+[How computers work](How_computers_work.md)
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
