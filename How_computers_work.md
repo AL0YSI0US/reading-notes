@@ -47,15 +47,16 @@ Computers represent all information in **bits**. In order to represent numbers w
 
 ## Logic and Circuits 
 
-+ Computers often chain logic gates together, by taking the output from one gate and using it as the input to another gate. We call that a logic circuit.
-+ Circuits enables computers to do more complex operations than they could accomplish with just a single gate.
+Computers often chain logic gates together, by taking the output from one gate and using it as the input to another gate. We call that a logic circuit.
+
+Circuits enables computers to do more complex operations than they could accomplish with just a single gate.
 The smallest circuit is a chain of 2 logic gates.
 
 [Logic Circuits](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:computers/xcae6f4a7ff015e7d:logic-gates-and-circuits/a/logic-circuits)
 
 ## CPU and Memory
 
-The computer does its primary work in a part of the machine we cannot see, a control center that converts data input to information output. This control center, called the central processing unit (CPU), is a highly complex, extensive set of electronic circuitry that executes stored program instructions. All computers, large and small, must have a central processing unit. As Figure 1 shows, the central processing unit consists of two parts: The control unit and the arithmetic/logic unit. Each part has a specific function.
+The computer does its primary work in a part of the machine we cannot see, a control center that converts data input to information output. This control center, called the central processing unit (CPU), is a highly complex, extensive set of electronic circuitry that executes stored program instructions. All computers, large and small, must have a central processing unit. *The central processing unit consists of two parts:* The **control unit** and the **arithmetic/logic unit**. Each part has a specific function.
 
 [How Computers Work: The CPU and Memory](https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading04.htm)
 
