@@ -141,10 +141,6 @@ The opacity property specifies the opacity/transparency of an element. It can ta
 |  **Curly braces**  | Curly braces { } are special syntax in JSX. It is used to evaluate a JavaScript expression during compilation. A JavaScript expression can be a variable, function, an object, or any code that resolves into a value.  |
 |  **Comments**  | Comments are used to explain the code, and may help when you edit the source code at a later date. *Comments are ignored by browsers.* |
 |  **Colors**  | Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.  |
-|  **000**  | 000  |
-|  **000**  | 000  |
-|  **000**  | 000  |
-|  **000**  | 000  |
 
 **Skim**
 + Duckett: HTML & CSS, Chapter 10: Introducing CSS
