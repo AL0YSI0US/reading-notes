@@ -36,9 +36,6 @@ All the styles in a page will "cascade" into a new "virtual" style sheet by the 
 
 So, an inline style has the highest priority, and will override external and internal styles and browser defaults.
 
-
-
-
 ## The CSS id Selector
 
 The id selector uses the id attribute of an HTML element to select a specific element.
@@ -82,6 +79,12 @@ The universal selector **(*)** selects all HTML elements on the page.
 * {
   text-align: center;
   color: blue;
+}
+
+> **UNIVERSAL BORDERS**
+
+*{
+  border: solid: black; 1px
 }
 
 ## The CSS Grouping Selector
