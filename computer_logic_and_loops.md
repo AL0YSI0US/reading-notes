@@ -2,10 +2,10 @@ Loop / While / For / Condition / Increment / Decrement
 
 ## Loop counters
 
-for (var i = 0; < 10; i++) {        This is a **for** loop  the condition is a counter that counts to ten.
+**for (var i = 0; < 10; i++) {**        This is a **for** loop  the condition is a counter that counts to ten.
 
-   document.write(i);               The result would write **"0123456789"** to the page.  
-}
+   **document.write(i);**               The result would write **"0123456789"** to the page.  
+**}**
 
 |  **Initialization** |  **Condition**  | **Update**  |
 |  :----: |  :----:  | :----:  |
