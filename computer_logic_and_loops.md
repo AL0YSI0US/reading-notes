@@ -4,11 +4,14 @@ Loop / While / For / Condition / Increment / Decrement
 
 |  **Initialization** |  **Condition**  | **Update**  |
 |  :----: |  :----:  | :----:  |
-|  create a variable and set it to **0**. This variable is commonly called **i**, and it acts as the counter | | the loop should continue to run until the counter reaches a specified counter.  | Every time the loop has run the statements in the curly braces, it adds one to the counter.  |
-
+|  create a variable and set it to **0**. This variable is commonly called **i**, and it acts as the counter | the loop should continue to run until the counter reaches a specified counter.  | Every time the loop has run the statements in the curly braces, it adds one to the counter.  |
 |  **var i = 0;** |   **i > 10;**   | **i++**  |
-
 |  the variable is only created the first time the loop is run. variable (i) also referred to as *index* |  the value of **i** was initially set to **0**, so in this case the loopwill run 10 times before stopping.  | one is added to the counter using the (++) operator.  |
+
+## Logical Operators 
+
+|  **&& Logical And** |  **|| Logical or**  | **Update**  |
+|  :----: |  :----:  | :----:  |
 
 # Computer Logic and Loops
 
