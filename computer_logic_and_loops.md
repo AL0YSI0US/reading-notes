@@ -38,17 +38,57 @@ Refer to Docket JavaScript Textbook page 150 Descicions and loops for:
 
 ## Logical Operators 
 
-|  `&&` **Logical And** |  `||` **Logical or**  | `!`**Logical Not**  |
-|  This operator tests more than one condition |  This operator tests at least one condition.  | This operator takes a single boolean value and inverts it.  |
-|  ((2 < 5) && (3 >= 2)) |  ((2 > 5) `||` (2 < 1>) | !(2 < 1)  |
-|  returns true |  returns true  | returns true  |
-|  If both expressions evaluate to **true** then the expression returns **true**. If just one of these returns **false** |  If either expression evaluates to **true**, then the expression returns **true**. If both return **false**, then the expression will return **false**. then the expression will return **false**. | This reverses the state of an expression. If it was **false** (without the ! before it) it would return **true**. If the statement was **true**, it would return **false**. |
-|  **true** && **true** returns **true** |  **true** `||` **true** returns **true**   |  !**true** return **false** |
-|  **true** && **false** returns **false**  |   **true** `||` **false** returns **true**    |   !**false** returns **true**  |
-|   **false** && **true**  returns **false**   |   **false** `||` **true** returns **true**    |   [intentionally blank]  |
-|   **false** && **false** returns **false**   |   **false** `||` **false** returns **false**    |intentionally blank]  |
+`&&` **Logical And** 
 
-> ***Logical Operations*** are evaluated **left** to **right**. If the first condition can provide enough informationn to get the answer, then there is no need to evaluate the second condition. 
+This operator tests more than one condition 
+
+**((2 < 5) && (3 >= 2))** 
+
+returns **true**
+
++ If both expressions evaluate to **true** then the expression returns **true**. If just one of these returns **false**, then the expression will return **false**.  
+
+**true** && **true** returns **true**
+
+**true** && **false** returns **false**  
+  
+**false** && **true**  returns **false**   
+
+**false** && **false** returns **false**   
+
+`||` **Logical or**  
+
+**((2 > 5) `||` (2 < 1>)**
+
+returns true
+
+ + This operator tests at least one condition.
+ +  If either expression evaluates to **true**, then the expression returns **true**. If both return **false**, then the expression will return **false**. then the expression will return **false**.
+
+**true** `||` **true** returns **true** 
+
+**true** `||` **false** returns **true**
+
+**false** `||` **true** returns **true**
+
+**false** `||` **false** returns **false**
+
+`!`**Logical Not**  
+
+**!(2 < 1)**
+
+  returns true
+  
++ This operator takes a single boolean value and inverts it.
++ This reverses the state of an expression. If it was **false** 
++ (without the ! before it) it would return **true**. 
++ If the statement was **true**, it would return **false**.
+
+!**true** return **false**
+
+!**false** returns **true**
+
+> ***Logical Operations*** are evaluated **left** to **right**. If the first condition can provide enough information to get the answer, then there is no need to evaluate the second condition. 
 
 # Computer Logic and Loops
 
