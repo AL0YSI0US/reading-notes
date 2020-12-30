@@ -1,17 +1,27 @@
 Loop / While / For / Condition / Increment / Decrement
 
-## Comparison Operators
+## Comparison Operators: Evaluating Conditions
 
-|You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a ***Boolean***: **true** or **false**|
+You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a *Boolean* **true** or **false**
+
+|value|value|
 |:---:|:---:|
 | > | < |
 | greater than | less than |
-|| this operator checks if the number on the left is greater than the number on the right. | this operator checks if the number on the left is less than the number on the right. |
+| this operator checks if the number on the left is greater than the number on the right. | this operator checks if the number on the left is less than the number on the right. |
 | 4 > 3 returns **true** | 4 < 3 returns **false**|
 | 3 > 4 returns **false** | 3 < 4 returns **true** |
-|== | != |
-|:---:|:---:|
-|||
+
+Refer to Docket JavaScript Textbook page 150 Descicions and loops for: 
+
+**( == )** is equal to 
+**( === )** strict equal to
+**( != )** is not equal to
+**( !== )** strict **not** equal to
+**( > )** greater than
+**( < )** less than
+**( >= )** greater than or equal to
+**( >= )** less than or equal to
 
 ## Loop counters
 
@@ -28,8 +38,7 @@ Loop / While / For / Condition / Increment / Decrement
 
 ## Logical Operators 
 
-|  **&& Logical And** |  **`||` Logical or**  | **Logical Not**  |
-|  :----: |  :----:  | :----:  |
+|  `&&` **Logical And** |  `||` **Logical or**  | `!`**Logical Not**  |
 |  This operator tests more than one condition |  This operator tests at least one condition.  | This operator takes a single boolean value and inverts it.  |
 |  ((2 < 5) && (3 >= 2)) |  ((2 > 5) `||` (2 < 1>) | !(2 < 1)  |
 |  returns true |  returns true  | returns true  |
