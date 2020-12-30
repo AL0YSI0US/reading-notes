@@ -1,5 +1,18 @@
 Loop / While / For / Condition / Increment / Decrement
 
+## Comparison Operators
+
+|You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a ***Boolean***: **true** or **false**|
+|:---:|:---:|
+| > | < |
+| greater than | less than |
+|| this operator checks if the number on the left is greater than the number on the right. | this operator checks if the number on the left is less than the number on the right. |
+| 4 > 3 returns **true** | 4 < 3 returns **false**|
+| 3 > 4 returns **false** | 3 < 4 returns **true** |
+|== | != |
+|:---:|:---:|
+|||
+
 ## Loop counters
 
 **for (var i = 0; < 10; i++) {**        This is a **for** loop  the condition is a counter that counts to ten.
