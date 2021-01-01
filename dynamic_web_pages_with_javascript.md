@@ -212,15 +212,15 @@ z stores the value 11
 **Declare a varialble called x, assign the value 
 42 to it and output it to the colsole:**
 
-x = ___;
+`x = ___;`
 
-______.log(_____);
+`______.log(_____);`
 
 **EXAMPLE**
 
-x = 42;
+`x = 42;`
 
-console.log(x);
+`console.log(x);`
 
 
 ## DATA TYPES
