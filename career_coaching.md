@@ -4,8 +4,9 @@
 + Qualifying Interview
 + Tech exam / Whiteboard / Behavioral
 
-Whiteboarding solve a problem...draw out code
+Whiteboarding solve a problem...draw out // code //
 Function that would do a thing.
+
 Code 401 whiteboard challenge every day
 
 ## Star Method
@@ -24,11 +25,11 @@ Resume Targeted Job search
 
 | ***Term*** | Context | 
 |  :----: |  ----  |   
-|  **Career Coaching**  | ooo  |
-|  **Professional etiquette**  | ooo  | 
-|  **Professional pitch**  | ooo  |
-|  **Professional networking**  | ooo  |
-|  **Behavioral interview**  | ooo  |
+|  **Career Coaching**  | happens at code fellows, they gotchu |
+|  **Professional etiquette**  | define professional... | 
+|  **Professional pitch**  | 30-60 second pitch "sell yourself" |
+|  **Professional networking**  | do it |
+|  **Behavioral interview**  | a thing to prepare at great lengths for #ActuallyAutistic |
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
