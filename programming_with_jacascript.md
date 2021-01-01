@@ -9,11 +9,15 @@ Script / Expression / Operator / Function / Declaration / Call / Parameters / Ar
 ## Here are six rules you must always follow when giving a variable name:
 
 1. The name must begin with a letter, dollar sign ($), or and underscore (_). It must **not** start with a number.
-2. The name can contain letters, numbers, dollar sign ($), or and underscore (_). Note that you myust not use a dash (-) os a period (.) in a variable name.
-3. you cannot use ***keywords** or **reserved** words. *Keywords are special words that tell the interpreter to do something. [Keywords/Reserved Words](https://www.w3schools.com/js/js_reserved.asp)
+2. The name can contain letters, numbers, dollar sign ($), or an underscore (_). *Note that you must not use a dash (-) os a period (.) in a variable name.*
+3. you cannot use ***keywords** or **reserved** words. *Keywords are special words that tell the interpreter to do something.* [Keywords/Reserved Words](https://www.w3schools.com/js/js_reserved.asp)
 4. All variables are case sensitive, so score and Score would be different variable names, but its bad practice to create the same name using different cases.
 5. Use a name that describes the types of information that the variable stores. For example firstName might be used to store a persons first name, lastName, age etc.
 6. camelCaseYourVariableName *or* you_can_use_an_underscore **however; you cannot use** (-) a dash.
+ 
+ ## Output to the console
+ 
+console.log("ALOYSIOUS TAKES REDONK READING NOTES!");
 
 | ***Term*** | Context | 
 |  :----: |  ----  | 
