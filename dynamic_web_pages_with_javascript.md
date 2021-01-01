@@ -4,11 +4,56 @@ JavaScript / Conditionals / Operators / Data Types / Variable
 
 :mortar_board: [JAVASCRIPT MASTER CHEAT](https://overapi.com/javascript)
 
-In JavaScript we have the following conditional statements:
+## Comments in JavaScript.
+
+**Statements**: are the instructions within our program that get "executed" when the program runs.
+But! Not all JavaScript statements are "executed".
+Any code after a double slash //, or between /* and */, is treated as a comment, and will be ignored, and not executed.
+
+**To write a Single line comment we use double slashes. Like this:**
+
+// This is a single line comment
+
+alert("This is an alert box!");
+
+**Multiple Line Comments*
+
+**To create a multi-line comment, we write it between `/* and */` Like this:**
+
+`/*`
+
+The code below will change
+
+the heading with `id = "myH"`
+
+and the paragraph with `id = "myP"`
+
+in my web page:
+
+`*/`
+
+document.getElementById("myH").innerHTML = "My First Page";
+
+document.getElementById("myP").innerHTML = "My first paragraph.";
+
+## This example uses a comment block to prevent execution of multiple lines:
+
+`/*`
+
+document.getElementById("myH").innerHTML = "My First Page";
+
+document.getElementById("myP").innerHTML = "My first paragraph.";
+
+`*/`
+
+## In JavaScript we have the following conditional statements:
 
 Use **if** to specify a block of code to be executed, if a specified condition is true
+
 Use **else** to specify a block of code to be executed, if the same condition is false
+
 Use **else if** to specify a new condition to test, if the first condition is false
+
 Use **switch to** specify many alternative blocks of code to be executed
 
 [W3Schools Condional Statements](https://www.w3schools.com/js/js_if_else.asp)
