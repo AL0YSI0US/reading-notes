@@ -207,6 +207,22 @@ y stores the value 6
 
 z stores the value 11
 
+## GEEK TALK
+
+**Declare a varialble called x, assign the value 
+42 to it and output it to the colsole:**
+
+x = ___;
+
+______.log(_____);
+
+**EXAMPLE**
+
+x = 42;
+
+console.log(x);
+
+
 ## DATA TYPES
 
 [W3Schools Data Types](https://www.w3schools.com/java/java_data_types.asp)
