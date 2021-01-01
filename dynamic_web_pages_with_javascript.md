@@ -4,6 +4,8 @@ JavaScript / Conditionals / Operators / Data Types / Variable
 
 :mortar_board: [JAVASCRIPT MASTER CHEAT](https://overapi.com/javascript)
 
+Every written "instruction" is called a statement. JavaScript **statements** are separated by **semicolons**.
+
 ## Comments in JavaScript.
 
 **Statements**: are the instructions within our program that get "executed" when the program runs.
