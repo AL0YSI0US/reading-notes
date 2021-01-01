@@ -10,13 +10,11 @@ JavaScript / Conditionals / Operators / Data Types / Variable
 But! Not all JavaScript statements are "executed".
 Any code after a double slash //, or between /* and */, is treated as a comment, and will be ignored, and not executed.
 
-**To write a Single line comment we use double slashes. Like this:**
+**To write a Single line comment we use double slashes ( // ). Like this:**
 
 // This is a single line comment
 
 alert("This is an alert box!");
-
-**Multiple Line Comments*
 
 **To create a multi-line comment, we write it between `/* and */` Like this:**
 
