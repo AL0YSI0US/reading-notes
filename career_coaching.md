@@ -1,5 +1,10 @@
 # Career Coaching
 
+[Career Coaching](https://codefellows.github.io/common_curriculum/career_coaching/)
+
+[Professional Competencies]
+ 
+ Be on the lookout  for:
 + 7 Pillars
 + Qualifying Interview
 + Tech exam / Whiteboard / Behavioral
