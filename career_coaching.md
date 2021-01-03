@@ -2,7 +2,7 @@
 
 [Career Coaching](https://codefellows.github.io/common_curriculum/career_coaching/)
 
-[Professional Competencies]
+[Professional Competencies](https://codefellows.github.io/common_curriculum/career_coaching/common/professional-competencies)
  
  Be on the lookout  for:
 + 7 Pillars
