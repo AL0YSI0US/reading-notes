@@ -1,8 +1,8 @@
 # Career Coaching
 
-[Career Coaching](https://codefellows.github.io/common_curriculum/career_coaching/)
+:mortar_board: [Career Coaching](https://codefellows.github.io/common_curriculum/career_coaching/)
 
-[Professional Competencies](https://codefellows.github.io/common_curriculum/career_coaching/common/professional-competencies)
+:mortar_board: [Professional Competencies](https://codefellows.github.io/common_curriculum/career_coaching/common/professional-competencies)
  
  Be on the lookout  for:
 + 7 Pillars
@@ -29,7 +29,7 @@ Resume Targeted Job search
 
 
 | ***Term*** | Context | 
-|  :----: |  ----  |   
+|  :----: |  :----:  |   
 |  **Career Coaching**  | happens at code fellows, they gotchu |
 |  **Professional etiquette**  | define professional... | 
 |  **Professional pitch**  | 30-60 second pitch "sell yourself" |
