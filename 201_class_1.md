@@ -1,4 +1,4 @@
-# Class 1 Reading Notes
+# Class 1 Reading Notes | 9JAN21
 
 :electron: [HTML MASTER CHEAT](https://overapi.com/html)
 
@@ -51,6 +51,8 @@ The < **base** > element specifies the base URL and/or target for all relative U
 - Introduction
 - JS Chapter 1: "The ABC of Programming" (pp.11-52)
 
-[Code 201 Table of Contents](code201toc.md)
+[<== Home](README.md) :house_with_garden: 
 
-[<== Home](README.md) [Forward ==>](201_class_2.md)
+[<== Back to 201 Table of Contents](code201toc.md)
+
+[Next Lesson ==> ](201_class_2.md)
