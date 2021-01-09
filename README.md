@@ -12,4 +12,12 @@ Code 301 Reading Notes
 
 Code 401 Reading Notes
 
-![black software developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXN3sI-yI8SsGjgR8pVIautdJCcHdHoiYS0w&usqp=CAU)
+![MY FACE](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
+
+Photo Description:
+
+*Aloysious peeks through a large green fan leaf,*
+
+*sun kisses their only visible eye, they are happy.*
+
+
