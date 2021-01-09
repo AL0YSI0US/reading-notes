@@ -2,10 +2,10 @@
 
 [GitHub Portfolio](https://github.com/AL0YSI0US) 
 
-[Code_Fellows_102](CodeFellows_102.md)
+[Code 102 Reading Notes](CodeFellows_102.md)
 
-Code_Fellows_201
+[Code 201 Reading Notes](code201toc.md)
 
-Code_Fellows_301
+Code 301 Reading Notes
 
-Code_Fellows_401
+Code 401 Reading Notes
