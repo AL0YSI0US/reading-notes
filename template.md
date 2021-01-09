@@ -1,5 +1,6 @@
 | :mortar_board: | :electron: | :books: | :zap:
 
+:smirk: [emojis](https://gist.github.com/rxaviers/7360908)
 
 | ***ooo*** | ooo | 
 |  :----: |  ----  |   
@@ -7,6 +8,9 @@
 |  **ooo**  | ooo  |
 |  **ooo**  | ooo  |
 
+:electron: [Git Master Cheat](https://overapi.com/git)
+
+:mortar_board: [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
