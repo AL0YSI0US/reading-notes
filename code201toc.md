@@ -22,5 +22,3 @@
 
 
 ![black software developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXN3sI-yI8SsGjgR8pVIautdJCcHdHoiYS0w&usqp=CAU)
-
-:electron:
