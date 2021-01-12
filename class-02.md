@@ -25,14 +25,15 @@
 > They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronynms used, when given text is a quotation).
 
 | ***Semantic Markup*** | Description | 
-|  :----: |  ----  |   
-|  `<strong>`  | ooo  | 
-|  `<em>`  | ooo  |
-|  `<blockquote>`  | ooo  |
-|  `<q>`  | ooo  | 
-|  `<abbr>`  | ooo  |
-|  `<cite>`  | ooo  |
-|  `<dfn>`  | ooo  | 
+|  :----: |  ----  | 
+|  `<h1>`-`<h6>`| `<h1>`main `<h2>`subheading `<h3>`-`<h6>`sections beyond subheading |  
+|  `<strong>`  | element has **strong** importance, will be in ***bold*** | 
+|  `<em>`  | emphasis has subtly changed, will be in *italics*  |
+|  `<blockquote>` pg. 52 | element is used for longer qoutes that take up an entie paragraph. (*no lazy inenting, use CSS for page indents*))  |
+|  `<q>`  | shorter quotes that sit between the paragraph  | 
+|  `<abbr>`  | If you use an abbreviation or an acronym, the the `<abbr>` element can be used. A ***Title Attribute*** on the opening tag is used to fully specify the full term |
+|  `<cite>`  | when referencing   |
+|  `<dfn>`  | is used to indicate the defining instance of a new term. The first time you explain tome new terminology (perhaps an acedemic concept or some jargon) in a document, it is known as the defining instance of it  | 
 |  `<adress>`  | SPECIFIC PURPOSE: Contains contact details for the author of a page.  |
 |  `<ins>`  | *underline* content has been inserted into a document |
 |  `<del>`  | *line through* element can show that text has been deleted from it |
@@ -80,7 +81,7 @@ The id selector uses the id attribute of an HTML element to select a specific el
 
 The id of an element is unique within a page, so the id selector is used to select one unique element!
 
-To select an element with a specific id, write a hash (#) character, followed by the id of the element.
+To select an element with a specific id, write a hash **(#)** character, followed by the id of the element.
 
 **The CSS rule below will be applied to the HTML element with id="para1":** (view in raw mode to view propper formatting)
 
@@ -93,7 +94,7 @@ To select an element with a specific id, write a hash (#) character, followed by
 
 The class selector selects HTML elements with a specific class attribute.
 
-To select elements with a specific class, write a period (.) character, followed by the class name.
+To select elements with a specific class, write a period **(.)** character, followed by ***the class name***.
 
 *In this example all HTML elements with class="center" will be red and center-aligned:*
 
@@ -114,14 +115,14 @@ p.center {
 
 The universal selector **(*)** selects all HTML elements on the page.
 
-* {
+`*` {
   text-align: center;
   color: blue;
 }
 
 > **UNIVERSAL BORDERS**
 
-*{
+`*`{
   border: solid: black; 1px
 }
 
@@ -146,21 +147,21 @@ h1, h2, p {
 
 ## There are five important rules for coding with HTML tags.
 
-1. Tags are always surrounded by angle brackets (less-than/greater-than characters), as in < HEAD >.
+1. Tags are always surrounded by angle brackets (less-than/greater-than characters), as in `<HEAD>`.
 
 2. Most tags come in pairs and surround the material they affect. They work like a light switch: the first tag turns the action on, and the second turns it off. (There are some exceptions. For instance, the < BR > tag creates a blank line and doesn't have an "off switch." Once you've made a line break, you can't unmake it.)
 
-3. The second tag--the "off switch"--always starts with a forward slash. For example, you turn on bold with < B >, shout your piece, and then go back to regular text with < /B >.
+3. The second tag--the "off switch"--always starts with a forward slash. For example, you turn on bold with `<B>`, shout your piece, and then go back to regular text with `</B>`.
 
 4. First tag on, last tag off. Tags are embedded, so when you start a tag within another tag, you have to close that inner tag before closing the outer tag. For instance, the page will not display properly with the tags in this order:
 
-< HEAD >< TITLE >Your text< /HEAD >< /TITLE >
+`<HEAD><TITLE>`Your text`</HEAD></TITLE>`
 
 The correct order is:
 
-**< HEAD >< TITLE >Your text< /TITLE >< /HEAD >**
+`**<HEAD><TITLE>`Your text`</TITLE></HEAD>**`
 
-5. Many tags have optional attributes that use values to modify the tag's behavior. The < P > (paragraph) tag's ALIGN attribute, for instance, lets you change the default (left) paragraph alignment. For example, < P ALIGN=CENTER > centers the next paragraph on the page.
+5. Many tags have optional attributes that use values to modify the tag's behavior. The `<P>` (paragraph) tag's ALIGN attribute, for instance, lets you change the default (left) paragraph alignment. For example, `<P` `ALIGN=CENTER>` centers the next paragraph on the page.
 
 ## JavaScript Variables
 
