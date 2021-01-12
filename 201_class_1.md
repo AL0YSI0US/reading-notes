@@ -1,4 +1,4 @@
-# Code 201 Reading Notes 
+# Code 201 Reading Notes
 
 ## Class 1 | 9JAN21
 
@@ -44,10 +44,11 @@
 Used in conjunction with **CSS** to provide visual formatting. *Allows you to create structure of paragraphs and headings.*
 
 ## PROCESS
-1. **HTML** (repository/git site/index.html)
-2. **CSS** to make it look good
-3. **JavaScript** makes the site functional.
-- *tags are used to establish structural components*
+
+1.**HTML** (repository/git site/index.html)
+2.**CSS** to make it look good
+3.**JavaScript** makes the site functional.
+-*tags are used to establish structural components*
 
 ## HTML Chapter 8: "Extra Markup" (p.176-199)
 

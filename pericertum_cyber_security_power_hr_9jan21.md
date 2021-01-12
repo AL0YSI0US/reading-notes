@@ -1,7 +1,48 @@
-#  Bob Breitman // PeriCertum
+# Bob Breitman // PeriCertum
 
 Dates Employed Mar 2018 – Present
 
 Employment Duration 2 yrs 11 mos
  
-LocationWest Bloomfield, MI // Focus on Cybersecurity 
+Location West Bloomfield, MI // Focus on Cybersecurity 
+
+## About Bob
+I take a holistic view towards mitigating cyber risk — your confidential information and intellectual property; your people, customers, and suppliers; your finances; and your organization’s reputation. I am an innovator, thought leader and change agent, with an entrepreneurial vision, competitive drive, common sense, honesty, and integrity.
+
+Our CLIENTS are in all verticals, typically with annual revenues $25 million - $1 billion. We meet with:
+-Board members
+-CEO’s, COO’s, CFO’s
+-CIO’s, CISO’s
+
+PRODUCTS/SERVICES relating to Cyber Risk:
+-Risk Identification and Financial Quantification
+-Prioritization and Budget
+-Predict and Prevent (prioritization of CVE remediation)
+-Risk Mitigation Solutions (NextGen Endpoint and Firewalls, Security Awareness Training, Advanced email Protection, Web Browsing Isolation)
+-Deep Assessment
+-Third Party Risk Scoring
+-Secure Cyber Operations (SIEM and SOC)
+-Cybersecurity Plan Development and Compliance
+
+Our clients BENEFIT from:
+-PeriCertum’s practical approach to Cybersecurity based on the concept that you will never be able to stop all cyber attacks and that you have limited funding
+-Fast, cost-effective, data-driven solutions using industry databases, tied to industry-leading cyber frameworks
+-Risk Identification and Quantification projects that take less than 2 weeks at a fraction of the investment versus our competition
+-Auditor-friendly solutions
+
+ACCOMPLISHMENTS include:
+-Seasoned C-Suite Executive with P&L management, M&A, Contract Development, Supply Chain Planning and more
+-Transformed companies from Start-Ups to Industry Leaders
+
+Several TESTIMONIALS:
+-“…has the amazing ability to cut straight to the heart of an issue and bring focus where it is needed”
+-“…strategic vision, ability to assess and leverage risk, and total commitment to his customers’ success”
+-“… a natural leader, strategist and subject matter expert in many areas of technology, with specialized expertise in the Cloud”
+
+I have 25+ years of success, leading product innovation and business growth strategies grounded in information technology and cyber intelligence. Together we can create a cutting-edge solution and set a new benchmark for your organization.
+
+If you would like to learn how we can help your organization, please visit [our website at](www.pericertum.com),
+
+Information on this page was found here :point_right: [Bob Breitman Linkedin](https://www.linkedin.com/in/bobbreitman/)
+
+https://www.youtube.com/watch?v=z_h_KUldyM4
