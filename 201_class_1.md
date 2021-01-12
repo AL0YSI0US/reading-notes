@@ -5,15 +5,15 @@
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
 
-:electron: [HTML MASTER CHEAT](https://overapi.com/html)
+[HTML MASTER CHEAT](https://overapi.com/html)
 
-:electron: [CSS MASTER CHEAT](https://overapi.com/css)
+[CSS MASTER CHEAT](https://overapi.com/css)
 
-:electron: [JAVASCRIPT MASTER CHEAT](https://overapi.com/javascript)
+[JAVASCRIPT MASTER CHEAT](https://overapi.com/javascript)
 
-:mortar_board: [HTML](https://html.spec.whatwg.org/multipage/)
+[HTML](https://html.spec.whatwg.org/multipage/)
 
-:mortar_board: [Beginner’s guide to CSS](https://friendlybit.com/css/beginners-guide-to-css-and-standards/)
+[Beginner’s guide to CSS](https://friendlybit.com/css/beginners-guide-to-css-and-standards/)
 
 [HTML PDF Cheat Sheet](https://overapi.com/static/cs/html-cheat-sheet.pdf)
 
@@ -107,7 +107,7 @@ The < **base** > element specifies the base URL and/or target for all relative U
 - Introduction
 - JS Chapter 1: "The ABC of Programming" (pp.11-52)
 
-[<== Home](README.md) :house_with_garden: 
+[<== Home](README.md) 
 
 [<== Back to 201 Table of Contents](code201toc.md)
 
