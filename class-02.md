@@ -276,3 +276,5 @@ From the Duckett JS book:
 - Chapter 4: “Decisions and Loops” ***only up to the section on switch statements*** (pp.145-162)
 
 [<== Home](README.md) [Next Lesson ==>](class-03.md)
+
+[<== Previous Lesson](201_class_1.md)
