@@ -26,20 +26,20 @@
 
 ## Semantic Markup
 
-* <h1>-<h6> : <h1>main <h2>subheading <h3>-<h6>sections beyond subheading 
+* `<h1>`-`<h6>` : `<h1>`main `<h2>`subheading `<h3>`-`<h6>`sections beyond subheading 
 * `<strong>` element has **strong** importance, will be in ***bold*** 
-* <em> emphasis has subtly changed, will be in *italics*  
-* <blockquote> pg. 52 : element is used for longer qoutes that take up an entie paragraph. (*no lazy inenting, use CSS for page indents*)
-* <q> shorter quotes that sit between the paragraph 
-* <abbr> If you use an abbreviation or an acronym, the the <abbr> element can be used. A ***Title Attribute*** on the opening tag is used to fully specify the full term
-* <cite>  when referencing  
-* <dfn>  is used to indicate the defining instance of a new term. The first time you explain tome new terminology (perhaps an acedemic concept or some jargon) in a document, it is known as the defining instance of it  
-* <adress> SPECIFIC PURPOSE: Contains contact details for the author of a page.  |
-* <ins>  *underline* content has been inserted into a document |
-* <del> *line through* element can show that text has been deleted from it |
-* <s> : <p><s>`Price was 999.99`</s></p>` Indicates something is no longer accurate or relavant (but that it should not be deleted). Creates a strike through content, old HTML placed an underline |
-* <hCard>`  | ``<a` `class="h-card"` `href="http://waterpigs.co.uk">`
-`<img` `src="/photo.png" alt="" /> Barnaby Walters</a>`  |
+* `<em>` emphasis has subtly changed, will be in *italics*  
+* `<blockquote>` pg. 52 : element is used for longer qoutes that take up an entie paragraph. (*no lazy inenting, use CSS for page indents*)
+* `<q>` shorter quotes that sit between the paragraph 
+* `<abbr>` If you use an abbreviation or an acronym, the the `<abbr>` element can be used. A ***Title Attribute*** on the opening tag is used to fully specify the full term
+* `<cite>`  when referencing  
+* `<dfn>`  is used to indicate the defining instance of a new term. The first time you explain tome new terminology (perhaps an acedemic concept or some jargon) in a document, it is known as the defining instance of it  
+* `<adress>` SPECIFIC PURPOSE: Contains contact details for the author of a page.  
+* `<ins>`  *underline* content has been inserted into a document 
+* `<del>` *line through* element can show that text has been deleted from it 
+* `<s>` : `<p><s>`Price was 999.99`</s></p>` Indicates something is no longer accurate or relavant (but that it should not be deleted). Creates a strike through content, old HTML placed an underline 
+* `<hCard>`   ``<a` `class="h-card"` `href="http://waterpigs.co.uk">`
+`<img` `src="/photo.png" alt="" /> Barnaby Walters</a>`  
 
 
 
@@ -81,7 +81,7 @@ The id of an element is unique within a page, so the id selector is used to sele
 
 To select an element with a specific id, write a hash **(#)** character, followed by the id of the element.
 
-**The CSS rule below will be applied to the HTML element with id="para1":** (view in raw mode to view propper formatting)
+> The CSS rule below will be applied to the HTML element with `id="para1"`: (view in raw mode to view propper formatting)
 
 #para1 {
   text-align: center;
@@ -94,7 +94,7 @@ The class selector selects HTML elements with a specific class attribute.
 
 To select elements with a specific class, write a period **(.)** character, followed by ***the class name***.
 
-*In this example all HTML elements with class="center" will be red and center-aligned:*
+*In this example all HTML elements with* `class="center"` will be `red` and `center-aligned:`*
 
 .center {
   text-align: center;
@@ -103,7 +103,7 @@ To select elements with a specific class, write a period **(.)** character, foll
 
 *You can also specify that only specific HTML elements should be affected by a class.*
 
-In this example only <p> elements with class="center" will be center-aligned:
+In this example only `<p>` elements with class="center" will be center-aligned:
 
 p.center {
   text-align: center;
@@ -120,7 +120,7 @@ The universal selector **(*)** selects all HTML elements on the page.
 
 > **UNIVERSAL BORDERS**
 
-`*`{
+`*` {
   border: solid: black; 1px
 }
 
@@ -179,11 +179,11 @@ Example
 
 From the example above, you can expect:
 
-x stores the value 5
+**x** stores the value **5**
 
-y stores the value 6
+**y** stores the value **6**
 
-z stores the value 11
+**z** stores the value **11**
 
 ## DATA TYPES
 
@@ -300,7 +300,7 @@ From the Duckett HTML book:
 From the Duckett JS book:
 
 - Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
-- Chapter 4: “Decisions and Loops” ***only up to the section on switch statements*** (pp.145-162)
+- Chapter 4: “Decisions and Loops” (pp.145-162)
 
 [<== Home](README.md) [Next Lesson ==>](class-03.md)
 
