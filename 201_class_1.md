@@ -111,4 +111,4 @@ The < **base** > element specifies the base URL and/or target for all relative U
 
 [<== Back to 201 Table of Contents](code201toc.md)
 
-[Next Lesson ==> ](201_class_2.md)
+[<== Home](README.md) [Next Lesson ==> ](class-02.md)
