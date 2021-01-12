@@ -25,11 +25,11 @@
 > They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronynms used, when given text is a quotation).
 
 | ***Semantic Markup*** | Description | 
-|  :----: |  ----  | 
-|  `<h1>`-`<h6>`| `<h1>`main `<h2>`subheading `<h3>`-`<h6>`sections beyond subheading |  
+|:----:|----| 
+|  <h1>-<h6>| <h1>main <h2>subheading <h3>-<h6>sections beyond subheading |  
 |  `<strong>`  | element has **strong** importance, will be in ***bold*** | 
 |  `<em>`  | emphasis has subtly changed, will be in *italics*  |
-|  `<blockquote>` pg. 52 | element is used for longer qoutes that take up an entie paragraph. (*no lazy inenting, use CSS for page indents*))  |
+|  `<blockquote>` pg. 52 | element is used for longer qoutes that take up an entie paragraph. (*no lazy inenting, use CSS for page indents*) |
 |  `<q>`  | shorter quotes that sit between the paragraph  | 
 |  `<abbr>`  | If you use an abbreviation or an acronym, the the `<abbr>` element can be used. A ***Title Attribute*** on the opening tag is used to fully specify the full term |
 |  `<cite>`  | when referencing   |
