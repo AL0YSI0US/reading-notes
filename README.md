@@ -1,4 +1,8 @@
-# Software Development Training // Python Learning Track
+# Software Development Training 
+
+## // Python Learning Track //
+
+> Codefellows
 
  [GitHub Portfolio](https://github.com/AL0YSI0US) 
  
@@ -14,13 +18,13 @@
 
 [Class_2](class-02.md)
 
-[Class_3]
+[Class_3](class-03.md)
 
-[Class_4]
+[Class_4](class-04.md)
 
-[Class_5]
+[Class_5](class-05.md)
 
-[Class_6]
+[Class_6](class-06.md)
 
 [Class_7]
 
