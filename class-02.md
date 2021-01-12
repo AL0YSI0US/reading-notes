@@ -16,6 +16,26 @@
 6. Wrap the body at 72 characters
 7. Use the body to explain what and why vs. how
 
+> **Structural Markup** the elements you can use to describe both the headings and paragraphs.
+
+> **Semantic Markup** provides different informtion; such as where the mphasis is placed in a sentence, that something you have written is a quotation (and who said it), the meaning of acronyms, and so on. 
+
+> HTML elements (*semantic information*) are used to describe the structures of the page. (e.g. headings, subheadings, paragraphs).
+
+> They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronynms used, when given text is a quotation).
+
+| ***Semantic Markup*** | Description | 
+|  :----: |  ----  |   
+|  `<strong>`  | ooo  | 
+|  **ooo**  | ooo  |
+|  **ooo**  | ooo  |
+|  **ooo**  | ooo  | 
+|  **ooo**  | ooo  |
+|  **ooo**  | ooo  |
+|  **ooo**  | ooo  | 
+|  **ooo**  | ooo  |
+|  **ooo**  | ooo  |
+
 ## CSS Syntax
 
 A CSS rule-set consists of a selector and a declaration block:
