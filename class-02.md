@@ -27,14 +27,22 @@
 | ***Semantic Markup*** | Description | 
 |  :----: |  ----  |   
 |  `<strong>`  | ooo  | 
-|  **ooo**  | ooo  |
-|  **ooo**  | ooo  |
-|  **ooo**  | ooo  | 
-|  **ooo**  | ooo  |
-|  **ooo**  | ooo  |
-|  **ooo**  | ooo  | 
-|  **ooo**  | ooo  |
-|  **ooo**  | ooo  |
+|  `<em>`  | ooo  |
+|  `<blockquote>`  | ooo  |
+|  `<q>`  | ooo  | 
+|  `<abbr>`  | ooo  |
+|  `<cite>`  | ooo  |
+|  `<dfn>`  | ooo  | 
+|  `<adress>`  | SPECIFIC PURPOSE: Contains contact details for the author of a page.  |
+|  `<ins>`  | *underline* content has been inserted into a document |
+|  `<del>`  | *line through* element can show that text has been deleted from it |
+|  `<s>`  | `<p><s>`Price was 999.99`</s></p>` Indicates something is no longer accurate or relavant (but that it should not be deleted). Creates a strike through content, old HTML placed an underline |
+|  `<hCard>`  | ``<a class="h-card" href="http://waterpigs.co.uk">
+<img src="/photo.png" alt="" /> Barnaby Walters</a>``  |
+|  `<>`  | ooo  |
+|  `<>`  | ooo  |
+|  `<>`  | ooo  |
+
 
 ## CSS Syntax
 
@@ -74,12 +82,12 @@ The id of an element is unique within a page, so the id selector is used to sele
 
 To select an element with a specific id, write a hash (#) character, followed by the id of the element.
 
-**The CSS rule below will be applied to the HTML element with id="para1":**
+**The CSS rule below will be applied to the HTML element with id="para1":** (view in raw mode to view propper formatting)
 
-`#para1 {`
-  `text-align: center;`
-  `color: red;`
-`}`
+#para1 {
+  text-align: center;
+  color: red;
+}
 
 ## The CSS class Selector
 
