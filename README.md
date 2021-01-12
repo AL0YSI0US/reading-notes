@@ -4,7 +4,7 @@
  
  [201 Class Repo](https://github.com/AL0YSI0US/seattle-201n21)
  
- ## Table of Contents for Lessons Covered 9 JAN - 11 MAR
+> Table of Contents for Lessons Covered 9 JAN - 11 MAR
 
 ## Reading Notes 
 
