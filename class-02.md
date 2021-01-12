@@ -76,10 +76,10 @@ To select an element with a specific id, write a hash (#) character, followed by
 
 **The CSS rule below will be applied to the HTML element with id="para1":**
 
-#para1 {
-  text-align: center;
-  color: red;
-}
+`#para1 {`
+  `text-align: center;`
+  `color: red;`
+`}`
 
 ## The CSS class Selector
 
@@ -146,11 +146,11 @@ h1, h2, p {
 
 4. First tag on, last tag off. Tags are embedded, so when you start a tag within another tag, you have to close that inner tag before closing the outer tag. For instance, the page will not display properly with the tags in this order:
 
-< HEAD >< TITLE >Your text< /HEAD >< /TITLE >.
+< HEAD >< TITLE >Your text< /HEAD >< /TITLE >
 
 The correct order is:
 
-< HEAD >< TITLE >Your text< /TITLE >< /HEAD >.
+**< HEAD >< TITLE >Your text< /TITLE >< /HEAD >**
 
 5. Many tags have optional attributes that use values to modify the tag's behavior. The < P > (paragraph) tag's ALIGN attribute, for instance, lets you change the default (left) paragraph alignment. For example, < P ALIGN=CENTER > centers the next paragraph on the page.
 
