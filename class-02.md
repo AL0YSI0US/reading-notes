@@ -140,7 +140,7 @@ The correct order is:
 
 JavaScript variables are containers for storing data values.
 
-In this example, x, y, and z, are variables, declared with the var keyword:
+In this example, x, y, and z, are **variables**, ***declared*** with the **var** keyword:
 
 Example
 
