@@ -37,8 +37,8 @@
 |  `<ins>`  | *underline* content has been inserted into a document |
 |  `<del>`  | *line through* element can show that text has been deleted from it |
 |  `<s>`  | `<p><s>`Price was 999.99`</s></p>` Indicates something is no longer accurate or relavant (but that it should not be deleted). Creates a strike through content, old HTML placed an underline |
-|  `<hCard>`  | ``<a class="h-card" href="http://waterpigs.co.uk">
-<img src="/photo.png" alt="" /> Barnaby Walters</a>``  |
+|  `<hCard>`  | ``<a` `class="h-card"` `href="http://waterpigs.co.uk">`
+`<img` `src="/photo.png" alt="" /> Barnaby Walters</a>`  |
 |  `<>`  | ooo  |
 |  `<>`  | ooo  |
 |  `<>`  | ooo  |
