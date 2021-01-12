@@ -4,17 +4,16 @@
 
 [Beginner’s guide to CSS](https://friendlybit.com/css/beginners-guide-to-css-and-standards/)
 
-## Reading
+[https://chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
+> The seven rules of a great Git commit message 
 
-From the Duckett HTML book:
-
-- Chapter 2: “Text” (pp.40-61)
-- Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
-
-From the Duckett JS book:
-
-- Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
-- Chapter 4: “Decisions and Loops” ***only up to the section on switch statements*** (pp.145-162)
+1. Separate subject from body with a blank line
+2. Limit the subject line to 50 characters
+3. Capitalize the subject line
+4. Do not end the subject line with a period
+5. Use the imperative mood in the subject line
+6. Wrap the body at 72 characters
+7. Use the body to explain what and why vs. how
 
 
 ## CSS Syntax
@@ -264,7 +263,14 @@ valueOf()	Returns the value of the Boolean object.
 
 [Naming conventions W3Schools](https://www.w3schools.com/js/js_conventions.asp)
 
-[https://chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
+## Reading
 
-Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
+From the Duckett HTML book:
+
+- Chapter 2: “Text” (pp.40-61)
+- Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
+
+From the Duckett JS book:
+
+- Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
 - Chapter 4: “Decisions and Loops” ***only up to the section on switch statements*** (pp.145-162)
