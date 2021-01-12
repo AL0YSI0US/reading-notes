@@ -2,9 +2,11 @@
 
  [GitHub Portfolio](https://github.com/AL0YSI0US) 
  
+ [201 Class Repo](https://github.com/AL0YSI0US/seattle-201n21)
+ 
  ## Table of Contents for Lessons Covered 9 JAN - 11 MAR
 
-## Reading Notes Table of Contents 
+## Reading Notes 
 
 [Code 102 Notes](CodeFellows_102.md)
 
@@ -38,8 +40,37 @@
 
 [Class_15]
 
+## Learning Journal
 
-[Code 201 Reading Notes](code201toc.md) 
+[Class 2]
+
+[Class_3]
+
+[Class_4]
+
+[Class_5]
+
+[Class_6]
+
+[Class_7]
+
+[Class_8]
+
+[Class_9]
+
+[Class_10]
+
+[Class_11]
+
+[Class_12]
+
+[Class_13]
+
+[Class_14]
+
+[Class_15]
+
+[Code 201 Reading Notes]
 
 Code 301 Reading Notes
 
