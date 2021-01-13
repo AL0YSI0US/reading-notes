@@ -6,7 +6,7 @@
 
 [<== Home](README.md) 
 
-[<== Home](README.md) [Next Lesson ==> ](class-02.md)
+[Next Lesson ==> ](class-02.md)
 
 ## HTML // JSS
 

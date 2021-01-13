@@ -44,7 +44,7 @@
 * `<abbr>` If you use an abbreviation or an acronym, the the `<abbr>` element can be used. A ***Title Attribute*** on the opening tag is used to fully specify the full term
 * `<cite>`  when referencing  
 * `<dfn>`  is used to indicate the defining instance of a new term. The first time you explain tome new terminology (perhaps an acedemic concept or some jargon) in a document, it is known as the defining instance of it  
-* `<adress>` SPECIFIC PURPOSE: Contains contact details for the author of a page.  
+* `<address>` SPECIFIC PURPOSE: Contains contact details for the author of a page.  
 * `<ins>`  *underline* content has been inserted into a document 
 * `<del>` *line through* element can show that text has been deleted from it 
 * `<s>` : `<p><s>`Price was 999.99`</s></p>` Indicates something is no longer accurate or relavant (but that it should not be deleted). Creates a strike through content, old HTML placed an underline 
