@@ -4,6 +4,11 @@
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
+[<== Home](README.md) 
+
+[<== Home](README.md) [Next Lesson ==> ](class-02.md)
+
+## HTML // JSS
 
 [HTML MASTER CHEAT](https://overapi.com/html)
 
@@ -89,9 +94,3 @@ The < **base** > element specifies the base URL and/or target for all relative U
 
 - Introduction
 - JS Chapter 1: "The ABC of Programming" (pp.11-52)
-
-[<== Home](README.md) 
-
-[<== Back to 201 Table of Contents](code201toc.md)
-
-[<== Home](README.md) [Next Lesson ==> ](class-02.md)

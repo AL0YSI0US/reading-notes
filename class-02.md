@@ -4,6 +4,10 @@
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
+[<== Home](README.md) [Next Lesson ==>](class-03.md)
+
+[<== Previous Lesson](201_class_1.md)
+
 ## Introducing CSS / Basic JavaScript Instructions / Decisions and Loops
 
 [CSS MASTER CHEAT](https://overapi.com/css)
@@ -307,7 +311,3 @@ From the Duckett JS book:
 
 - Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
 - Chapter 4: “Decisions and Loops” (pp.145-162)
-
-[<== Home](README.md) [Next Lesson ==>](class-03.md)
-
-[<== Previous Lesson](201_class_1.md)
