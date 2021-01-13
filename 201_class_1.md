@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-## Class 1 | 9JAN21
+## Class 1 
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 

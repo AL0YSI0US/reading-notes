@@ -1,4 +1,10 @@
-# Introducing CSS / Basic JavaScript Instructions / Decisions and Loops
+# Code 201 Reading Notes
+
+## Class 2
+
+[Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
+
+## Introducing CSS / Basic JavaScript Instructions / Decisions and Loops
 
 [CSS MASTER CHEAT](https://overapi.com/css)
 
