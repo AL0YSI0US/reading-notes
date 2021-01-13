@@ -300,6 +300,10 @@ valueOf()	Returns the value of the Boolean object.
 
 [Naming conventions W3Schools](https://www.w3schools.com/js/js_conventions.asp)
 
+## "Decisions and Loops”
+
+[Javascript tutorial all things Decisions & Loops](http://javascriptbook.com/code/c04/)
+
 ## Reading
 
 From the Duckett HTML book:
