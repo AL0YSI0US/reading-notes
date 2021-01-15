@@ -74,6 +74,7 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 [Array Methods CW3 Shcools](https://www.w3schools.com/jsref/jsref_obj_array.asp) 
 
+[Boolean Practice Class 3](https://github.com/codefellows/seattle-201n21/blob/master/class-03/boolean-practice.md)
 
 ## Reading
 
