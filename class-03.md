@@ -22,6 +22,8 @@
 
 [Lists CW3 Schools](https://www.w3schools.com/css/css_list.asp)
 
+![box model](https://iq.opengenus.org/content/images/2020/03/css_box_model.png)
+
 ## Boxes
 
 + **Content** - The content of the box, where text and images appear
@@ -31,6 +33,13 @@
 + **The box model** allows us to add a border around elements, and to define space between elements. 
 + CSS treats Each 
 
+[show every box with this code]
+
+`* {`
+   `border: 1px solid red !important;`
+`}`
+
+## Box Examples
 `div {`
 
   `width: 320px;`
@@ -71,6 +80,8 @@ Total element height = height + top padding + bottom padding + top border + bott
 |  **constructor**  | Returns the function that created the Array object's prototype  | 
 |  **length**  | Sets or returns the number of elements in an array  |
 |  **prototype**  | Allows you to add properties and methods to an Array object  |
+
+Values in an array are accessed if they are in a numbered list. It is important to know that the numbering of this list starts a\t zero (not one).
 
 [Array Methods CW3 Shcools](https://www.w3schools.com/jsref/jsref_obj_array.asp) 
 

@@ -10,10 +10,12 @@
 
 ## HTML Links, JS Functions, and Intro to CSS Layout
 
-1. [learnlayout.com](http://learnlayout.com) will be our practical entry point into layout
-1. [CSS Zen Garden](http://www.csszengarden.com/) allows you to practice CSS styling and see how others have styled the same HTML code.
-1. [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/) has some helpful tips for centering content horizontally and vertically.
-1. [Floats in CSS](https://medium.freecodecamp.org/css-floats-explained-by-riding-an-escalator-57fa55232333) as explained by riding an escalator.
+1. [CSS MASTER CHEAT](https://overapi.com/css)
+2. [learnlayout.com](http://learnlayout.com) practical entry point into layout
+3. [CSS Zen Garden](http://www.csszengarden.com/) allows you to practice CSS styling and see how others have styled the same HTML code.
+4. [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/) has some helpful tips for centering content horizontally and vertically.
+5. [Floats in CSS](https://medium.freecodecamp.org/css-floats-explained-by-riding-an-escalator-57fa55232333) as explained by riding an escalator.
+
 
 ## Reading 
 
