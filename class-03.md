@@ -77,7 +77,7 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 ![arrays](https://miro.medium.com/max/1006/1*HJY_2vNKkNkqRQhLZcYlyg.png)
 
-## Array Poperties
+## Array Properties
 
 | ***Property*** | Description | 
 |  :----: |  ----  |   
@@ -87,7 +87,7 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 Values in an array are accessed if they are in a numbered list. It is important to know that the numbering of this list starts a\t zero (not one).
 
-[Array Methods CW3 Shcools](https://www.w3schools.com/jsref/jsref_obj_array.asp) 
+[Array Methods CW3 Schools](https://www.w3schools.com/jsref/jsref_obj_array.asp) 
 
 [Boolean Practice Class 3](https://github.com/codefellows/seattle-201n21/blob/master/class-03/boolean-practice.md)
 
