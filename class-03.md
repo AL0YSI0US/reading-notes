@@ -10,6 +10,8 @@
 
 ## HTML Lists, Control Flow with JS, and the CSS Box Model
 
+![lists](https://www.mactale.com/images/css-li-styling-techniques/list-markers.jpg)
+
 ## Lists 
 
 + There are three types of HTML lists: **ordered, unordered, and definition**.
@@ -73,6 +75,8 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 [Boxes CW3 Schools](https://www.w3schools.com/css/css_boxmodel.asp)]
 
+![arrays](https://miro.medium.com/max/1006/1*HJY_2vNKkNkqRQhLZcYlyg.png)
+
 ## Array Poperties
 
 | ***Property*** | Description | 
@@ -96,5 +100,5 @@ Values in an array are accessed if they are in a numbered list. It is important 
 
 **From the Duckett JS book:**
 
-Review from Reading 02 - Chapter 2: “Basic JavaScript Instructions” (pp.70-73)
-Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
+- Review - Chapter 2: “Basic JavaScript Instructions” (pp.70-73)
+- Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
