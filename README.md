@@ -6,7 +6,7 @@
 
  [GitHub Portfolio](https://github.com/AL0YSI0US) 
  
- [201 Class Repo](https://github.com/AL0YSI0US/seattle-201n21)
+ [201 Class Repo | seattle-201n21](https://github.com/codefellows/seattle-201n21)
  
 > Table of Contents for Lessons Covered 9 JAN - 11 MAR
 
@@ -105,5 +105,7 @@ Code 401 Reading Notes
 - [Javascript Structure](class-09/javascript-structure.md)
 - [Git - Handling Merge Conflicts](class-15/handling-merge-conflicts.md)
 - [Post 201 Study Guide](class-15/post-201-study-guide.md)
+- [ASCII Art Upload Tool](https://manytools.org/hacker-tools/convert-images-to-ascii-art)
+- [JSFIDDLE](https://jsfiddle.net/)
 
-[Source/"forked" repo/seattle-201n21](https://github.com/AL0YSI0US/seattle-201n21)
+[201 Class Repo | seattle-201n21](https://github.com/codefellows/seattle-201n21)
