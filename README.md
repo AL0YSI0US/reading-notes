@@ -6,7 +6,7 @@
 
  [GitHub Portfolio](https://github.com/AL0YSI0US) 
  
- [201 Class Repo seattle-201n21](https://github.com/codefellows/seattle-201n21)
+ [201n21 Class Repo](https://github.com/codefellows/seattle-201n21)
  
 > Table of Contents for Lessons Covered 9 JAN - 11 MAR
 
@@ -25,36 +25,6 @@
 [Class_5](class-05.md)
 
 [Class_6](class-06.md)
-
-[Class_7]
-
-[Class_8]
-
-[Class_9]
-
-[Class_10]
-
-[Class_11]
-
-[Class_12]
-
-[Class_13]
-
-[Class_14]
-
-[Class_15]
-
-## Learning Journal
-
-[Class 2]
-
-[Class_3]
-
-[Class_4]
-
-[Class_5]
-
-[Class_6]
 
 [Class_7]
 
@@ -108,4 +78,4 @@ Code 401 Reading Notes
 - [ASCII Art Upload Tool](https://manytools.org/hacker-tools/convert-images-to-ascii-art)
 - [JSFIDDLE](https://jsfiddle.net/)
 
-[201 Class Repo seattle-201n21](https://github.com/codefellows/seattle-201n21)
+[201n21 Class Repo](https://github.com/codefellows/seattle-201n21)
