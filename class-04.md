@@ -101,7 +101,8 @@ The code inside the function will execute when "something" **invokes** (calls) t
 - Automatically (self invoked)
 
 
-Function Return
+**Function Return** 
+
 When JavaScript reaches a `return` statement, the function will stop executing.
 
 If the function was invoked from a statement, JavaScript will "return" to execute the code after the invoking statement.
@@ -115,8 +116,11 @@ Calculate the product of two numbers, and return the result:
 `var` `x` `=` `myFunction``(4, 3)``;`   // Function is called, return value will end up in **x**
 
 `function` `myFunction``(a, b)` `{`
-  `return` `a *b;`             // Function returns the product of `a` and `b`
+
+`return` `a *b;`             // Function returns the product of `a` and `b`
+
 `}`
+
 The result in **x** will be:
 
 **12**  [Notes above W3Schools Functions](https://www.w3schools.com/js/js_functions.asp)
