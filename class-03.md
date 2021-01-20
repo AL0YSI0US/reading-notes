@@ -102,3 +102,7 @@ Values in an array are accessed if they are in a numbered list. It is important 
 
 - Review - Chapter 2: “Basic JavaScript Instructions” (pp.70-73)
 - Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
+
+[<== Home](README.md) [Next Lesson ==>](class-04.md)
+
+[<== Previous Lesson](class-02.md)

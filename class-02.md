@@ -315,3 +315,7 @@ From the Duckett JS book:
 
 - Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
 - Chapter 4: “Decisions and Loops” (pp.145-162)
+
+[<== Home](README.md) [Next Lesson ==>](class-03.md)
+
+[<== Previous Lesson](201_class_1.md)
