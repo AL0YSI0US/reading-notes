@@ -74,7 +74,7 @@ Code 401 Reading Notes
 - [Boolean Practice](class-03/boolean-practice.md)
 - [Javascript Structure](class-09/javascript-structure.md)
 - [Git - Handling Merge Conflicts](class-15/handling-merge-conflicts.md)
-- [Post 201 Study Guide](class-15/post-201-study-guide.md)
+- [Post 201 Study Guide](https://github.com/codefellows/seattle-201n21/blob/master/class-15/post-201-study-guide.md)
 - [ASCII Art Upload Tool](https://manytools.org/hacker-tools/convert-images-to-ascii-art)
 - [JSFIDDLE](https://jsfiddle.net/)
 
