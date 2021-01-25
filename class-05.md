@@ -17,7 +17,7 @@
 ## Color Duckett HTML book: (pp.246-263)
 
 + selectors = specifies the element the style will be applied to
-+ declarations = specifis what the area will look like
++ declarations = specifies what the area will look like
 + CSS lives in its own document and there can be multiple stylesheets
 + color conveys mood and evokes reactions 
 + color pickers can help you find the color you want
