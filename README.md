@@ -44,7 +44,7 @@
 
 [Class_15]
 
-[Code 201 Reading Notes](CodeFellows_201.md)
+[Code 201 Reading Notes](Codefellows_201.md)
 
 Code 301 Reading Notes
 
