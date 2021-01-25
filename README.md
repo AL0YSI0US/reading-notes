@@ -50,7 +50,7 @@ Code 301 Reading Notes
 
 Code 401 Reading Notes
 
-## Aloysious [aloe-ish-iss]
+## Aloysious [aloe-wish-iss]
 
 ![MY FACE](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
