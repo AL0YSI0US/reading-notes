@@ -4,9 +4,9 @@
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
-[<== Home](README.md) [Next Lesson ==>](class-06.md)
+[<== Previous Lesson](class-04.md) [Next Lesson ==>](class-06.md)
 
-[<== Previous Lesson](class-04.md)
+[<== Home](README.md)
 
 ## CSS for Images Duckett HTML book: (pp.94-125)
 
@@ -48,6 +48,6 @@ From the Duckett HTML book:
 + Chapter 11: “Color” (pp.246-263)
 + Chapter 12: “Text” (pp.264-299)
 
-[<== Home](README.md) [Next Lesson ==>](class-06.md)
+[<== Previous Lesson](class-04.md) [Next Lesson ==>](class-06.md)
 
-[<== Previous Lesson](class-04.md)
+[<== Home](README.md)

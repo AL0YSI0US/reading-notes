@@ -4,9 +4,9 @@
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
-[<== Home](README.md) [Next Lesson ==>](class-05.md)
+[<== Previous Lesson](class-03.md) [Next Lesson ==>](class-05.md)
 
-[<== Previous Lesson](class-03.md)
+[<== Home](README.md) 
 
 ## HTML Links, JS Functions, and Intro to CSS Layout
 
@@ -161,6 +161,6 @@ The **Navigator** thinks about the big picture, what comes next, how an algorith
 
 [layout of webpages](http://htmlandcssbook.com/code-samples/chapter-15/)
 
-[<== Home](README.md) [Next Lesson ==>](class-05.md)
+[<== Previous Lesson](class-03.md) [Next Lesson ==>](class-05.md)
 
-[<== Previous Lesson](class-03.md)
+[<== Home](README.md) 

@@ -4,9 +4,9 @@
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
-[<== Home](README.md) [Next Lesson ==>](class-04.md)
+[<== Previous Lesson](class-02.md) [Next Lesson ==>](class-04.md)
 
-[<== Previous Lesson](class-02.md)
+[<== Home](README.md) 
 
 ## HTML Lists, Control Flow with JS, and the CSS Box Model
 
@@ -103,6 +103,6 @@ Values in an array are accessed if they are in a numbered list. It is important 
 - Review - Chapter 2: “Basic JavaScript Instructions” (pp.70-73)
 - Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
 
-[<== Home](README.md) [Next Lesson ==>](class-04.md)
+[<== Previous Lesson](class-02.md) [Next Lesson ==>](class-04.md)
 
-[<== Previous Lesson](class-02.md)
+[<== Home](README.md) 

@@ -4,12 +4,12 @@
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
-[<== Home](README.md) [Next Lesson ==>](class-09.md)
+[<== Previous Lesson](class-07.md) [Next Lesson ==>](class-09.md)
 
-[<== Previous Lesson](class-07.md)
+[<== Home](README.md) 
 
 ## XXX
 
-[<== Home](README.md) [Next Lesson ==>](class-09.md)
+[<== Previous Lesson](class-07.md) [Next Lesson ==>](class-09.md)
 
-[<== Previous Lesson](class-07.md)
+[<== Home](README.md) 
