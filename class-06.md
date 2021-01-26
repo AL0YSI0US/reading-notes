@@ -12,6 +12,8 @@
 
 ![betterDom](https://lh3.googleusercontent.com/proxy/gLZLhsTgDcP6RtqcuB5BNUUvq0q2tQ7YeXcjuQTFfKuJs_jzt45og3zos6qX0J0iMCdlS7nk2mANN0J_XGoEwk_4Ug-EpPfYGpjA0zhXAVr9SH3islbd8UmL8ySImMbgcnCa2XPWDg)
 
+[The problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+
 
 ## Object Literals (pp.100-105) [Duckett JavaScript]
 
