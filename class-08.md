@@ -8,7 +8,15 @@
 
 [<== Home](README.md) 
 
-## XXX
+## CSS Layout
+
+## Layout Duckett HTML book (pp.359-404)
+
+## Reading
+
+**From the Duckett HTML book**:
+
++ Chapter 15: “Layout” (pp.359-404)
 
 [<== Previous Lesson](class-07.md) [Next Lesson ==>](class-09.md)
 
