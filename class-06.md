@@ -10,6 +10,10 @@
 
 ## The DOM, Domain Modeling, and Introduction to Objects
 
+![betterDom](https://lh3.googleusercontent.com/proxy/gLZLhsTgDcP6RtqcuB5BNUUvq0q2tQ7YeXcjuQTFfKuJs_jzt45og3zos6qX0J0iMCdlS7nk2mANN0J_XGoEwk_4Ug-EpPfYGpjA0zhXAVr9SH3islbd8UmL8ySImMbgcnCa2XPWDg)
+
+![documentObjectModel](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png)
+
 > In JavaScript, objects are king. If you understand objects, you understand JavaScript.
 
 **In JavaScript, almost "everything" is an object.**
@@ -41,7 +45,9 @@
 
 > Primitive values are immutable (they are hardcoded and therefore cannot be changed).
 
-if x = 3.14, you can change the value of x. But you cannot change the value of 3.14.
+if **x = 3.14**, you ***can*** change the value of **x**. 
+
+- But you **cannot** change the value of **3.14**.
 
 > JavaScript objects are containers for named values, called properties and methods.
 
@@ -53,13 +59,13 @@ There are different ways to create new objects:
 + Define and create a single object, with the keyword new.
 + Define an object constructor, and then create objects of the constructed type.
 
-[Bojects W3Schools](https://www.w3schools.com/js/js_object_definition.asp)
+[Objects W3Schools](https://www.w3schools.com/js/js_object_definition.asp)
 
 ## Object Literals (pp.100-105) [Duckett JavaScript]
 
 Using an object literal, you both define and create an object in one statement.
 
-An object literal is a list of name:value pairs (like age:50) inside curly braces {}.
+An object literal is a list of name:value pairs (like `age:50`) inside curly braces `{}`.
 
 The following example creates a new JavaScript object with four properties:
 
@@ -84,6 +90,12 @@ The following example also creates a new JavaScript object with four properties:
 `person.eyeColor` `=` `"blue";`
 
 ## Document Object Model (pp.183-242) [Duckett JavaScript]
+
+
+
+[What is the DOM? - Medium Article](https://medium.com/@ReaganCuthbert/what-is-the-document-object-model-dom-87d552e27305)
+
+
 
 ## Reading 
 
