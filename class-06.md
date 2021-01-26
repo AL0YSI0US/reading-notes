@@ -12,7 +12,35 @@
 
 ![betterDom](https://lh3.googleusercontent.com/proxy/gLZLhsTgDcP6RtqcuB5BNUUvq0q2tQ7YeXcjuQTFfKuJs_jzt45og3zos6qX0J0iMCdlS7nk2mANN0J_XGoEwk_4Ug-EpPfYGpjA0zhXAVr9SH3islbd8UmL8ySImMbgcnCa2XPWDg)
 
-![documentObjectModel](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png)
+
+## Object Literals (pp.100-105) [Duckett JavaScript]
+
+Using an object literal, you both define and create an object in one statement.
+
+An object literal is a list of name:value pairs (like `age:50`) inside curly braces `{}`.
+
+The following example creates a new JavaScript object with four properties:
+
+**Example** 
+
+`var` `person` `=` `{firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};`
+
+## Using the JavaScript Keyword new
+
+The following example also creates a new JavaScript object with four properties:
+
+**Example**
+
+`var` `person` `=` `new Object();`
+
+`person.firstName` `=` `"John";`
+
+`person.lastName` `=` `"Doe";`
+
+`person.age` `=` `50;`
+
+`person.eyeColor` `=` `"blue";`
+
 
 > In JavaScript, objects are king. If you understand objects, you understand JavaScript.
 
@@ -61,41 +89,24 @@ There are different ways to create new objects:
 
 [Objects W3Schools](https://www.w3schools.com/js/js_object_definition.asp)
 
-## Object Literals (pp.100-105) [Duckett JavaScript]
-
-Using an object literal, you both define and create an object in one statement.
-
-An object literal is a list of name:value pairs (like `age:50`) inside curly braces `{}`.
-
-The following example creates a new JavaScript object with four properties:
-
-**Example** 
-
-`var` `person` `=` `{firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};`
-
-## Using the JavaScript Keyword new
-
-The following example also creates a new JavaScript object with four properties:
-
-**Example**
-
-`var` `person` `=` `new Object();`
-
-`person.firstName` `=` `"John";`
-
-`person.lastName` `=` `"Doe";`
-
-`person.age` `=` `50;`
-
-`person.eyeColor` `=` `"blue";`
-
 ## Document Object Model (pp.183-242) [Duckett JavaScript]
 
+> refer to book, it has the best visuals
 
++ Working with the DOM Tree (pp.188-189)
++ Caching DOM Queries (pp.190-191)
++ Accessing Elements (pp.192-193)
++ Methods that select individual elements (pp.194)
++ Selecting elements using ID attributes (pp.195)
++ Nodelists / DOM queries that return more than one element (pp.196)
++ Selecting an element from a nodelist (pp.198-199)
++ Selecting an element using CLASS name (pp.200)
++ Selecting an element by TAG name (pp.201)
++ Selecting an element using CSS selectors (pp.202-203)
+
+>This topic is huuuuuuuuge oOf.  `<(^.^)>` refer to (pp.239)
 
 [What is the DOM? - Medium Article](https://medium.com/@ReaganCuthbert/what-is-the-document-object-model-dom-87d552e27305)
-
-
 
 ## Reading 
 
