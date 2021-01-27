@@ -10,7 +10,7 @@
 
 ## The DOM, Domain Modeling, and Introduction to Objects
 
-![betterDom](https://lh3.googleusercontent.com/proxy/gLZLhsTgDcP6RtqcuB5BNUUvq0q2tQ7YeXcjuQTFfKuJs_jzt45og3zos6qX0J0iMCdlS7nk2mANN0J_XGoEwk_4Ug-EpPfYGpjA0zhXAVr9SH3islbd8UmL8ySImMbgcnCa2XPWDg)
+![betterDom](https://lh3.googleusercontent.com/proxy/wCEvmp3OdSjOY3Dm6JeHsg6yund3Dc2deVm1rtVfggKWbgv8lBMR2xgmjXV1kwG_Vb4L9xnwEhh5LagfdxpiXSeiKssU-7vD2rvzsB5ACSi3FwV75Io0CLxbPiEkjQLSsoXgUw5zfg)
 
 [The problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
