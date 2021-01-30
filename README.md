@@ -26,7 +26,7 @@
 
 [Class_6](class-06.md) The DOM, Domain Modeling, and Introduction to Objects
 
-[Class_7](class-07.md)
+[Class_7](class-07.md) Intro to Object-Oriented Programming with Constructor Functions; HTML Tables
 
 [Class_8](class-08.md)
 
