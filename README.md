@@ -28,9 +28,9 @@
 
 [Class_7](class-07.md) Intro to Object-Oriented Programming with Constructor Functions; HTML Tables
 
-[Class_8](class-08.md)
+[Class_8](class-08.md) CSS Layout
 
-[Class_9](class-09.md)
+[Class_9](class-09.md) HTML Forms and JS Events
 
 [Class_10](class-10.md)
 
