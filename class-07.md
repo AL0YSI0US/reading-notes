@@ -96,9 +96,9 @@ var person = {
 
 };
 
-Object Properties
+**Object Properties**
 
-The name:values pairs in JavaScript objects are called properties:
+The name **values:pairs** in JavaScript objects are called **properties**:
 
 Property	Property Value
 
