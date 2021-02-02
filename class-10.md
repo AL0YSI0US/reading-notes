@@ -8,7 +8,7 @@
 
 [<== Home](README.md)
 
-## XXX CHILL OUT NOSEY I HAVENT MADE IT THIS FAR.....
+## >>> CHILL OUT NOSEY I HAVENT MADE IT THIS FAR..... <<<
 
 [<== Previous Lesson](class-09.md) [Next Lesson ==>](class-11.md)
 
