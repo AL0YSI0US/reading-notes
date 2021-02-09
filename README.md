@@ -1,16 +1,16 @@
-# Software Development Training 
+# Software Development Training
 
 ## // Python Learning Track //
 
 > Codefellows
 
- [GitHub Portfolio](https://github.com/AL0YSI0US) 
- 
- [201n21 Class Repo](https://github.com/codefellows/seattle-201n21)
- 
+[GitHub Portfolio](https://github.com/AL0YSI0US)
+
+[201n21 Class Repo](https://github.com/codefellows/seattle-201n21)
+
 > Table of Contents for Lessons Covered 9 JAN - 11 MAR
 
-## Reading Notes 
+## Reading Notes
 
 [Code 102 Notes](CodeFellows_102.md)
 
@@ -32,17 +32,17 @@
 
 [Class_9](class-09.md) HTML Forms and JS Events
 
-[Class_10](class-10.md)
+[Class_10](class-12.md) Error Handling & Debugging
 
-[Class_11]
+[Class_11](class-11.md)
 
-[Class_12]
+[Class_12](class-12.md)
 
-[Class_13]
+[Class_13](class-13.md)
 
-[Class_14]
+[Class_14](class-13.md)
 
-[Class_15]
+[Class_15](class-15.md)
 
 [Code 201 Reading Notes](Codefellows_201.md)
 

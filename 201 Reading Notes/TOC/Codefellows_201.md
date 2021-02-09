@@ -1,16 +1,16 @@
-# Software Development Training 
+# Software Development Training
 
 ## // Python Learning Track //
 
 > Codefellows
 
- [GitHub Portfolio](https://github.com/AL0YSI0US) 
- 
- [201n21 Class Repo](https://github.com/codefellows/seattle-201n21)
- 
+[GitHub Portfolio](https://github.com/AL0YSI0US)
+
+[201n21 Class Repo](https://github.com/codefellows/seattle-201n21)
+
 > Table of Contents for Lessons Covered 9 JAN - 11 MAR
 
-## Reading Notes 
+## Reading Notes
 
 [Code 102 Notes](CodeFellows_102.md)
 
@@ -26,25 +26,25 @@
 
 [Class_6](class-06.md) The DOM, Domain Modeling, and Introduction to Objects
 
-[Class_7](class-07.md)
+[Class_7](class-07.md) Intro to Object-Oriented Programming with Constructor Functions; HTML Tables
 
-[Class_8](class-08.md)
+[Class_8](class-08.md) CSS Layout
 
-[Class_9](class-09.md)
+[Class_9](class-09.md) HTML Forms and JS Events
 
-[Class_10](class-10.md)
+[Class_10](class-12.md) Error Handling & Debugging
 
-[Class_11]
+[Class_11](class-11.md)
 
-[Class_12]
+[Class_12](class-12.md)
 
-[Class_13]
+[Class_13](class-13.md)
 
-[Class_14]
+[Class_14](class-13.md)
 
-[Class_15]
+[Class_15](class-15.md)
 
-[Code 201 Reading Notes]
+[Code 201 Reading Notes](Codefellows_201.md)
 
 Code 301 Reading Notes
 
@@ -54,7 +54,7 @@ Code 401 Reading Notes
 
 ![MY FACE](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
-Photo Description
+:camera: Photo Description:
 
 *Aloysious peeks through a large green fan leaf,*
 

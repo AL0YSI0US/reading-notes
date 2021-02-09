@@ -4,7 +4,7 @@
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
-[<== Previous Lesson](201_class_1.md) [Next Lesson ==>](class-03.md)
+[<== Previous Lesson](class-01.md) [Next Lesson ==>](class-03.md)
 
 [<== Home](README.md)
 
@@ -16,10 +16,10 @@
 
 [https://chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
 
-> The seven rules of a great Git commit message 
+> The seven rules of a great Git commit message
 
 1. Separate subject from body with a blank line
-2. Limit the subject line to 50 characters 
+2. Limit the subject line to 50 characters
 3. Capitalize the subject line
 4. Do not end the subject line with a period
 5. Use the imperative mood in the subject line
@@ -28,7 +28,7 @@
 
 > **Structural Markup** the elements you can use to describe both the headings and paragraphs.
 
-> **Semantic Markup** provides different informtion; such as where the mphasis is placed in a sentence, that something you have written is a quotation (and who said it), the meaning of acronyms, and so on. 
+> **Semantic Markup** provides different informtion; such as where the mphasis is placed in a sentence, that something you have written is a quotation (and who said it), the meaning of acronyms, and so on.
 
 > HTML elements (*semantic information*) are used to describe the structures of the page. (e.g. headings, subheadings, paragraphs).
 
@@ -36,22 +36,19 @@
 
 ## Semantic Markup
 
-* `<h1>`-`<h6>` : `<h1>`main `<h2>`subheading `<h3>`-`<h6>`sections beyond subheading 
-* `<strong>` element has **strong** importance, will be in ***bold*** 
-* `<em>` emphasis has subtly changed, will be in *italics*  
+* `<h1>`-`<h6>` : `<h1>`main `<h2>`subheading `<h3>`-`<h6>`sections beyond subheading
+* `<strong>` element has **strong** importance, will be in ***bold***
+* `<em>` emphasis has subtly changed, will be in *italics*
 * `<blockquote>` pg. 52 : element is used for longer qoutes that take up an entie paragraph. (*no lazy inenting, use CSS for page indents*)
-* `<q>` shorter quotes that sit between the paragraph 
+* `<q>` shorter quotes that sit between the paragraph
 * `<abbr>` If you use an abbreviation or an acronym, the the `<abbr>` element can be used. A ***Title Attribute*** on the opening tag is used to fully specify the full term
-* `<cite>`  when referencing  
-* `<dfn>`  is used to indicate the defining instance of a new term. The first time you explain tome new terminology (perhaps an acedemic concept or some jargon) in a document, it is known as the defining instance of it  
-* `<address>` SPECIFIC PURPOSE: Contains contact details for the author of a page.  
-* `<ins>`  *underline* content has been inserted into a document 
-* `<del>` *line through* element can show that text has been deleted from it 
-* `<s>` : `<p><s>`Price was 999.99`</s></p>` Indicates something is no longer accurate or relavant (but that it should not be deleted). Creates a strike through content, old HTML placed an underline 
-* `<hCard>`   ``<a` `class="h-card"` `href="http://waterpigs.co.uk">`
-`<img` `src="/photo.png" alt="" /> Barnaby Walters</a>`  
-
-
+* `<cite>`  when referencing
+* `<dfn>`  is used to indicate the defining instance of a new term. The first time you explain tome new terminology (perhaps an acedemic concept or some jargon) in a document, it is known as the defining instance of it
+* `<address>` SPECIFIC PURPOSE: Contains contact details for the author of a page.
+* `<ins>`  *underline* content has been inserted into a document
+* `<del>` *line through* element can show that text has been deleted from it
+* `<s>` : `<p><s>`Price was 999.99`</s></p>` Indicates something is no longer accurate or relavant (but that it should not be deleted). Creates a strike through content, old HTML placed an underline
+* `<hCard>`   ``<a` `class="h-card"` `href="http://waterpigs.co.uk">` `<img` `src="/photo.png" alt="" /> Barnaby Walters</a>`
 
 ## CSS Syntax
 
@@ -67,8 +64,8 @@ Each declaration includes a CSS property name and a value, separated by a colon.
 
 Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
 
-
 **There are three ways of inserting a style sheet:**
+
 + External CSS
 + Internal CSS
 + Inline CSS
@@ -94,8 +91,8 @@ To select an element with a specific id, write a hash **(#)** character, followe
 > The CSS rule below will be applied to the HTML element with `id="para1"`: (view in raw mode to view propper formatting)
 
 #para1 {
-  text-align: center;
-  color: red;
+text-align: center;
+color: red;
 }
 
 ## The CSS class Selector
@@ -107,8 +104,8 @@ To select elements with a specific class, write a period **(.)** character, foll
 *In this example all HTML elements with* `class="center"` will be `red` and `center-aligned:`*
 
 .center {
-  text-align: center;
-  color: red;
+text-align: center;
+color: red;
 }
 
 *You can also specify that only specific HTML elements should be affected by a class.*
@@ -116,33 +113,36 @@ To select elements with a specific class, write a period **(.)** character, foll
 In this example only `<p>` elements with class="center" will be center-aligned:
 
 p.center {
-  text-align: center;
-  color: red;
+text-align: center;
+color: red;
 }
+
 ## The CSS Universal Selector
 
 The universal selector **(*)** selects all HTML elements on the page.
 
 `*` {
-  text-align: center;
-  color: blue;
+text-align: center;
+color: blue;
 }
 
 > **UNIVERSAL BORDERS**
 
 `*` {
-  border: solid: black; 1px
+border: solid: black; 1px
 }
 
 ## The CSS Grouping Selector
+
 The grouping selector selects all the HTML elements with the same style definitions.
 
 h1, h2, p {
-  text-align: center;
-  color: red;
+text-align: center;
+color: red;
 }
 
 ## Cascading Style Sheets
+
 - The style portion of the website
 - How does HTML differ from CSS?
 - comes after HTML
@@ -156,11 +156,8 @@ h1, h2, p {
 ## There are five important rules for coding with HTML tags.
 
 1. Tags are always surrounded by angle brackets (less-than/greater-than characters), as in `<HEAD>`.
-
 2. Most tags come in pairs and surround the material they affect. They work like a light switch: the first tag turns the action on, and the second turns it off. (There are some exceptions. For instance, the < BR > tag creates a blank line and doesn't have an "off switch." Once you've made a line break, you can't unmake it.)
-
 3. The second tag--the "off switch"--always starts with a forward slash. For example, you turn on bold with `<B>`, shout your piece, and then go back to regular text with `</B>`.
-
 4. First tag on, last tag off. Tags are embedded, so when you start a tag within another tag, you have to close that inner tag before closing the outer tag. For instance, the page will not display properly with the tags in this order:
 
 `<HEAD><TITLE>`Your text`</HEAD></TITLE>`
@@ -231,11 +228,11 @@ Non-primitive data types are called reference types because they refer to object
 
 ## Enclosing quotation marks
 
-Let’s say you’re trying to use quotation marks inside a string. You’ll need to 
+Let’s say you’re trying to use quotation marks inside a string. You’ll need to
 
-use opposite quotation marks inside and outside. That means strings containing 
+use opposite quotation marks inside and outside. That means strings containing
 
-single quotes need to use double quotes and strings containing double quotes need 
+single quotes need to use double quotes and strings containing double quotes need
 
 to use single quotes.
 
@@ -245,7 +242,7 @@ to use single quotes.
 
 'Remember to say "please" and "thank you."';
 
-Alternatively, you can use a backslash \ to escape the quotation marks. This lets 
+Alternatively, you can use a backslash \ to escape the quotation marks. This lets
 
 JavaScript know in advance that you want to use a special character.
 
@@ -261,15 +258,15 @@ Here’s what that looks like reusing the examples above:
 
 **JavaScript Boolean**
 
-Boolean is a primitive data type in JavaScript. Boolean can have only two values, 
+Boolean is a primitive data type in JavaScript. Boolean can have only two values,
 
-**true** or **false**. It is useful in controlling program flow using conditional 
+**true** or **false**. It is useful in controlling program flow using conditional
 
 statements like ***if..else, switch, while, do..while.***
 
 **Boolean object**
 
-JavaScript includes Boolean object to represent true or false. It can be 
+JavaScript includes Boolean object to represent true or false. It can be
 
 initialized using new keyword.
 
@@ -316,6 +313,6 @@ From the Duckett JS book:
 - Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
 - Chapter 4: “Decisions and Loops” (pp.145-162)
 
-[<== Previous Lesson](201_class_1.md) [Next Lesson ==>](class-03.md)
+[<== Previous Lesson](class-01.md) [Next Lesson ==>](class-03.md)
 
 [<== Home](README.md)

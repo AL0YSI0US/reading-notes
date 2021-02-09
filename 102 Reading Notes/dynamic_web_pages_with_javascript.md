@@ -1,5 +1,9 @@
 JavaScript / Conditionals / Operators / Data Types / Variable
 
+[Code 102 Table of Contents](CodeFellows_102.md)
+
+[<== Home](README.md) [Forward ==>](programming_with_jacascript.md)
+
 # Dynamic Web Pages with JavaScript
 
 :mortar_board: [JAVASCRIPT MASTER CHEAT](https://overapi.com/javascript)
@@ -66,7 +70,7 @@ Use the if statement to specify a block of JavaScript code to be executed if a c
 
 if (condition) {
 
-  //  *block of code to be executed if the condition is true*
+//  *block of code to be executed if the condition is true*
 
 }
 
@@ -78,11 +82,11 @@ Use the else statement to specify a block of code to be executed if the conditio
 
 if (condition) {
 
-  //  *block of code to be executed if the condition is true*
+//  *block of code to be executed if the condition is true*
 
 } else {
 
-  //  *block of code to be executed if the condition is false*
+//  *block of code to be executed if the condition is false*
 
 }
 
@@ -94,15 +98,15 @@ Use the else if statement to specify a new condition if the first condition is f
 
 if (condition1) {
 
-  //  *block of code to be executed if condition1 is true*
+//  *block of code to be executed if condition1 is true*
 
 } else if (condition2) {
 
-  //  *block of code to be executed if the condition1 is false and condition2 is true*
+//  *block of code to be executed if the condition1 is false and condition2 is true*
 
 } else {
 
-  //  *block of code to be executed if the condition1 is false and condition2 is false*
+//  *block of code to be executed if the condition1 is false and condition2 is false*
 
 }
 
@@ -114,22 +118,19 @@ Use the switch statement to select one of many code blocks to be executed.
 
 switch(expression) {
 
-  case x:
+case x:
 
-    // *code block*
+// *code block*
 
-    break;
+break;
+case y:
 
-  case y:
+// *code block*
 
-    // *code block*
+break;
+default:
 
-    break;
-
-  default:
-
-    // *code block*
-
+// *code block*
 }
 
 **This is how it works:**
@@ -173,6 +174,7 @@ The **addition assignment** operator (+=) adds a value to a variable:
 int x = 10;
 
 x += 5;
+
 ## Java Comparison Operators
 
 Comparison operators are used to compare two values:
@@ -211,7 +213,7 @@ z stores the value 11
 
 ## GEEK TALK
 
-**Declare a varialble called x, assign the value 
+**Declare a varialble called x, assign the value
 42 to it and output it to the colsole:**
 
 `x = ___;`
@@ -223,7 +225,6 @@ z stores the value 11
 `x = 42;`
 
 `console.log(x);`
-
 
 ## DATA TYPES
 
@@ -242,16 +243,17 @@ A primitive data type specifies the size and type of variable values, and it has
 
 There are ***eight primitive data types*** in Java:
 
+
 | **Data Type** | **Size** | **Description** |
-|  :----: |  :----:  | ----  |
-|  byte |  1 byte  | Stores whole numbers from -128 to 127  |
-|  short |  2 bytes  | Stores whole numbers from -32,768 to 32,767  |
-|  int |  4 bytes  | Stores whole numbers from -2,147,483,648 to 2,147,483,647  |
-|  long |  8 bytes  | Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807  |
-|  float |  4 bytes  | Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits  |
-|  double |  8 bytes  | Stores fractional numbers. Sufficient for storing 15 decimal digits  |
-|  boolean |  1 bit  | Stores true or false values  |
-|  char |  2 bytes  | Stores a single character/letter or ASCII values  |
+| :-: | :-: | - |
+| byte | 1 byte | Stores whole numbers from -128 to 127 |
+| short | 2 bytes | Stores whole numbers from -32,768 to 32,767 |
+| int | 4 bytes | Stores whole numbers from -2,147,483,648 to 2,147,483,647 |
+| long | 8 bytes | Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 |
+| float | 4 bytes | Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits |
+| double | 8 bytes | Stores fractional numbers. Sufficient for storing 15 decimal digits |
+| boolean | 1 bit | Stores true or false values |
+| char | 2 bytes | Stores a single character/letter or ASCII values |
 
 ## Non-Primitive Data Types
 
@@ -270,13 +272,14 @@ Non-primitive data types are called reference types because they refer to object
 
 [How computers work-notes](How_computers_work.md)
 
+
 | ***Term*** | Context |
-|  :----: |  ----  |
-|  **JavaScript**  | JavaScript is the Programming Language for the Web. JavaScript can update and change both HTML and CSS. JavaScript can calculate, manipulate and validate data.  |
-|  **conditionals**  | Conditional statements are used to perform different actions based on different conditions.  |
-|  **operators**  | Operators are used to perform operations on variables and values.  |
-|  **data types**  | a variable in Java must be a specified data type (two types: Primitive/ Non-Primitive)  |
-|  **variable**  | JavaScript variables are containers for storing data values.  |
+| :-: | - |
+| **JavaScript** | JavaScript is the Programming Language for the Web. JavaScript can update and change both HTML and CSS. JavaScript can calculate, manipulate and validate data. |
+| **conditionals** | Conditional statements are used to perform different actions based on different conditions. |
+| **operators** | Operators are used to perform operations on variables and values. |
+| **data types** | a variable in Java must be a specified data type (two types: Primitive/ Non-Primitive) |
+| **variable** | JavaScript variables are containers for storing data values. |
 
 **Read**
 
