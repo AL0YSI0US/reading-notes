@@ -14,7 +14,7 @@
 
 [Code 102 Notes](CodeFellows_102.md)
 
-[Class_1](201_class_1.md) HTML / JSS
+[Class_1](class-01.md) HTML / JSS
 
 [Class_2](class-02.md) Introducing CSS / Basic JavaScript Instructions / Decisions and Loops
 
