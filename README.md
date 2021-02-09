@@ -12,8 +12,6 @@
 
 ## Reading Notes
 
-[Code 102 Notes](CodeFellows_102.md)
-
 [Class_1](class-01.md) HTML / JSS
 
 [Class_2](class-02.md) Introducing CSS / Basic JavaScript Instructions / Decisions and Loops
@@ -43,12 +41,6 @@
 [Class_14](class-13.md)
 
 [Class_15](class-15.md)
-
-[Code 201 Reading Notes](Codefellows_201.md)
-
-Code 301 Reading Notes
-
-Code 401 Reading Notes
 
 ## Aloysious [aloe-wish-iss]
 
