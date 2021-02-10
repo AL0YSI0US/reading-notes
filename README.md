@@ -30,7 +30,7 @@
 
 [Class_9](class-09.md) HTML Forms and JS Events
 
-[Class_10](class-12.md) Error Handling & Debugging
+[Class_10](class-10.md) Error Handling & Debugging
 
 [Class_11](class-11.md)
 
@@ -38,7 +38,7 @@
 
 [Class_13](class-13.md)
 
-[Class_14](class-13.md)
+[Class_14](class-14.md)
 
 [Class_15](class-15.md)
 
