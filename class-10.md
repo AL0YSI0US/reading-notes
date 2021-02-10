@@ -164,6 +164,8 @@ Mozilla and Microsoft defines some non-standard error object properties:
 
 **Do not use these properties in public web sites**. *They will not work in all browsers*.
 
+[JavaScript Errors](https://www.w3schools.com/js/js_errors.asp) *w3schools.com*
+
 [Complete Error Reference](https://www.w3schools.com/jsref/jsref_obj_error.asp) *w3schools.com*
 
 
