@@ -27,11 +27,6 @@
 | [MOD X](How_computers_work.md) | How Computers Work |
 | [MOD X](growth-mindeset.md) | The Growth Mindset |
 
----
-
----
-
----
 
 [<== Home](README.md) :house_with_garden:
 
