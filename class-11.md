@@ -74,8 +74,6 @@ FTP orograms allow you to transfer files from local computer to the web.
 
 [What is an FLA file](https://fileinfo.com/extension/fla) *FileInfo*
 
-**
-
 **.SWF File Extension**
 
 > **File Type - Shockwave Flash Movie**
