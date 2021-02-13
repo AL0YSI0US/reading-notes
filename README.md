@@ -1,4 +1,4 @@
-# Software Development Training
+# Software Development Training ![Profile views](https://gpvc.arturio.dev/AL0YSI0US)
 
 ## // Python Learning Track //
 
@@ -74,4 +74,3 @@ This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.c
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
-![Profile views](https://gpvc.arturio.dev/AL0YSI0US)
