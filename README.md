@@ -70,4 +70,5 @@
 - [ASCII Art Upload Tool](https://manytools.org/hacker-tools/convert-images-to-ascii-art)
 - [JSFIDDLE](https://jsfiddle.net/)
 
-[201n21 Class Repo](https://github.com/codefellows/seattle-201n21)
+This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/AL0YSI0US/" property="cc:attributionName" rel="cc:attributionURL">AL0YSI0US</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+
