@@ -32,7 +32,7 @@
 
 [Class_10](class-10.md) Error Handling & Debugging
 
-[Class_11](class-11.md)
+[Class_11](class-11.md) Images / Practical Information / Flash / Video & Audio
 
 [Class_12](class-12.md)
 
