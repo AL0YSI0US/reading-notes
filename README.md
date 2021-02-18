@@ -1,4 +1,5 @@
-# Software Development Training ![Profile views](https://gpvc.arturio.dev/AL0YSI0US)
+# Software Development Training [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
 
 ## // Python Learning Track //
 
