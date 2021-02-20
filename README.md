@@ -2,7 +2,7 @@
 
 <h2 align="right">// Python Learning Track //</h2>
 
-<h2 align="center">Code Fellows + Seattle 
+## Code Fellows + Seattle 
 
 💻 - [GitHub Portfolio](https://github.com/AL0YSI0US)    **|** **Projects** >  [README.md - github profile](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md)  **|**  [Templates]()  **|** [Tech Events](https://github.com/AL0YSI0US/aloysious-the-ambitious/blob/main/README.md) **|**
 
