@@ -1,13 +1,14 @@
 # Software Development Training [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
+<h2 align="right">// Python Learning Track //</h2>
 
-## // Python Learning Track //
+<h2 align="center">Code Fellows + Seattle 
 
-> Codefellows
+💻 - [GitHub Portfolio](https://github.com/AL0YSI0US)    **|** **Projects** >  [README.md - github profile](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md)  **|**  [Templates]()  **|** [Tech Events](https://github.com/AL0YSI0US/aloysious-the-ambitious/blob/main/README.md) **|**
 
-[GitHub Portfolio](https://github.com/AL0YSI0US)
+📁 - [201n21 Class Repo](https://github.com/codefellows/seattle-201n21)
 
-[201n21 Class Repo](https://github.com/codefellows/seattle-201n21)
+💼 - [Linkedin Profile](https://www.linkedin.com/in/a-todd-charliemike/)
 
 > Table of Contents for Lessons Covered 9 JAN - 11 MAR
 
@@ -37,23 +38,23 @@
 
 [Class_12](class-12.md) Docs for the HTML <canvas> Element & Chart.js
 
-[Class_13](class-13.md)
+[Class_13](class-13.md) Local Storage
 
 [Class_14](class-14.md)
 
 [Class_15](class-15.md)
 
-## Aloysious [aloe-wish-iss]
+<h2 align="center">Aloysious [aloe-wish-iss]</h2>
 
-![MY FACE](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
+![myFace](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
-:camera: Photo Description:
+Photo Description:
 
 *Aloysious peeks through a large green fan leaf,*
 
 *sun kisses their only visible eye, they are happy.*
 
-## Index of Cheatsheets and Resources
+<h2 align="center">Index of Cheatsheets and Resources</h2>
 
 - [New Project Setup](class-02/project_setup.md)
 - [README template](class-02/README-template.md)
