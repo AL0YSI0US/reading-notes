@@ -2,15 +2,21 @@
 
 <h2 align="right">// Python Learning Track //</h2>
 
-## Code Fellows + Seattle 
+## Code Fellows + Seattle
 
-💻 - [GitHub Portfolio](https://github.com/AL0YSI0US)    **|** **Projects** >  [README.md - github profile](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md)  **|**  [Templates]()  **|** [Tech Events](https://github.com/AL0YSI0US/aloysious-the-ambitious/blob/main/README.md) **|**
+💻 - [GitHub Portfolio](https://github.com/AL0YSI0US)  
 
 📁 - [201n21 Class Repo](https://github.com/codefellows/seattle-201n21)
 
 💼 - [Linkedin Profile](https://www.linkedin.com/in/a-todd-charliemike/)
 
-> Table of Contents for Lessons Covered 9 JAN - 11 MAR
+---
+
+#### Projects | [Templates](https://github.com/AL0YSI0US/templates/blob/main/README.md) | [Tech Events Calendar](https://github.com/AL0YSI0US/aloysious-the-ambitious/blob/main/README.md) | [README](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md)
+
+---
+
+> ### Table of Contents for Lessons Covered 9 JAN - 11 MAR
 
 ## Reading Notes
 
@@ -40,15 +46,15 @@
 
 [Class_13](class-13.md) Local Storage
 
-[Class_14](class-14.md)
+[Class_14](class-14.md) CSS Transforms, Transitions, and Animations
 
-[Class_15](class-15.md)
+[Class_15](class-15.md) What Google Learned From Its Quest to Build the Perfect Team
 
 <h2 align="center">Aloysious [aloe-wish-iss]</h2>
 
 ![myFace](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
-Photo Description:
+📷 Image Description:
 
 *Aloysious peeks through a large green fan leaf,*
 
