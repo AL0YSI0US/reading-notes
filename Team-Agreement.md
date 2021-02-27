@@ -6,7 +6,8 @@
 
 >  How will your group communicate with each other?
 
-Slack / github project board / remo
+Github project board / remo
+
 
 
 > What is your strategy for ensuring everyones voices are heard, and that contributions from both loud and soft voices are listened to? Open coms about project ideas through slack
