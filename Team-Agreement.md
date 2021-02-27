@@ -4,95 +4,29 @@
 
 ## Communication plan:
 
->  How will your group communicate with each other?
++ Communicating outside of class hours: Slack group chat 
++ To ensure everyone’s voice is being heard: at the beginning AND end of class time, each person will speak of what they are working on, how they’re feeling about the project/process in general.
++ To ensure we’re creating a safe space where everyone feels comfortable speaking up: We acknowledge that we have different comfort levels with different subjects and skills - we will try to respect everyone’s comfort zones and also recognize that we are all practicing working outside of our zones as well.
 
-Github project board / remo
+## Conflict plan:
+
+> We are all in agreement that this group is a safe place.
+
+1. If there is an issue between individuals, it will be brought up between them first.
++ If resolution is not reached, it will then be brought to the group’s attention.
++ After that, if there is not adequate resolution we will bring it to the attention of someone outside the group - i.e. Ryan or a TA
+
+2. If there’s an issue in the group, it is a safe place to bring the issue to the group.
++ If adequate resolution is not reached, we will bring in someone from outside the group - i.e. an instructor or TA
+
+## Git Process
+
++ The majority of our project will live in GitHub. Our project and our project board, as well as any other assets to be used in our project (photos, slideshow presentation)
++ The repository will be created and all members will be included as collaborators.
++ To review individual workflow members will send a slack message and clarify when work is done/going to be done
++ Clarify which branch is having work done
++ Notify in Slack when a PR is created
++ 2 people other than creator review PR before merge
++ Leave comment on PR and/or Slack message to say it’s done
 
 
-
-> What is your strategy for ensuring everyones voices are heard, and that contributions from both loud and soft voices are listened to? Open coms about project ideas through slack
->
-> Do you have a plan for managing psychological safety?
-
-Rest breaks [using timers] drinking water / checking in with folx prior to diving into coding…”dropping in.
-
-### Conflict plan:
-
-> What will your group do when it encounters conflict?  What will your process be to resolve it?
->
-> Consider the realities that we may run into hiccups along the way that change our desired timelines, finding out who may be the best suited to problem solve based on the issues subject matter may be a good way not to get hung up on something. Asking for help!!!
-
-### Work plan:
-
-GitHub Project Board?
-
-[Team Project Board](https://github.com/users/AL0YSI0US/projects/3)
-
-> How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
-
-**GitHub Project Board** = Capture TODO and by Who / Completed..in progress / Idea board
-**Slack** = Document trigger a repository action PRs/ Merging / conflicts
-
-> In particular, make sure you know how you''ll track whether everyone is contributing equally to all parts of the project, and that each person is working on “meaty” problems. What project management tool will be used?
-
-Break out the project / use git project board to track work
-
-### Git process:
-
-What lives on GitHub? What is your Git flow? How many people must review a PR? Who merges PRs? How often will you merge? How will you communicate that it’s time to merge?
-
-Designate a single person for pull requests, merges and updating the project board and we can cycle each day...This way only one person is doing each task and we can track better. - communication [project board / slack group]
-
-> Any thing else you feel is important: expectations around work times, stand-up times (outside of the ones schedule with the instructional team), taking breaks/seeking help when you’re stuck, etc.
-> Morning plan of attack in slack?
-
-Key Strengths - *Needs Improvement*
-Aloysious - Documentation / Naming Conventions / google-fu / syntax / a lil css || *git PR/Merging javascript*
-
-## Tasks
-
-User Story:
-
-Project Name:
-
-Whiteboard:
-
-Talk HTML [class selectors / id tags / forms etc]
-
-Talk JavaScript [how many files...what are we doing? Global Variables / Naming Conventions]
-
-Talk CSS Followup from HTML Discussion Capture any class IDs or Process for design / Talk color scheme with everyone
-
-**[A POWERPOINT](https://docs.google.com/presentation/d/1rwfcN018C6PJcO1ksGe2YLUo-CzUf64DupC5-2lfQwA/edit)** for us to collaborate on our presentation
-
-Does everyone have access?
-
-[ ] Allee McCoy
-
-[ ] Marie Marcos
-
-[ ] Kassie Bradraw
-
-[x] Aloysious
-
-**THIS Markdown DOCUMENT**
-
-Does everyone have access?
-
-[ ] Allee McCoy
-
-[ ] Marie Marcos
-
-[ ] Kassie Bradraw
-
-[x] Aloysious
-
-> Schedule a 1-hour meeting for your entire project team. During that meeting the group should review the Team Agreement guidelines and decide on a course of action for items such as communication and conflict resolution. Projects are stressful, and can ignite emotions that otherwise wouldn’t be a problem. It’s important that the safety and security of the group comes first, and that an agreement is in place to establish expectations and accountability among the whole group.
-
-**Submitting Your Work**
-
-> This is a group submission. Only one person must submit for group credit, please have everyone’s name at the top of the doc.
-
-> Review the team agreement, and as a group decide on which areas each group member should be aware of and which areas are strengths. Put a plan of action together for mitigating any communication issues amongst the team. Submit this agreement in the text field in Canvas, or a link to a Google doc.
-
-> This step must be completed and approved before any future approvals will be given. (Example: Your project pitches will not be approved until you have this step completed.)
