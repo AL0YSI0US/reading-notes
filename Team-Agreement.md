@@ -51,16 +51,7 @@ Does everyone have access?
  [ ]
  [ ]
  [ ]
- ===== [PULL THIS OUT AND PUT IT IN ??? FOR PRIVACY] =====
 
-Everyone’s Github!   ||   Phone Number   ||   Email
-
-https://github.com/AL0YSI0US   |   206-793-5477   |   aloysiousx@gmail.com 
-https://github.com/  |   000-000-0000   |
-https://github.com/  |   000-000-0000   |
-https://github.com/  |   000-000-0000   |
-
-===== [PULL THIS OUT AND PUT IT IN ??? FOR PRIVACY] =====
 
 Schedule a 1-hour meeting for your entire project team. During that meeting the group should review the Team Agreement guidelines and decide on a course of action for items such as communication and conflict resolution. Projects are stressful, and can ignite emotions that otherwise wouldn’t be a problem. It’s important that the safety and security of the group comes first, and that an agreement is in place to establish expectations and accountability among the whole group.
 Submitting Your Work
