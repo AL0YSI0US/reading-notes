@@ -24,7 +24,6 @@
 
 ## 📚 Reading Notes || Table of contents
 
-
 ![myFace](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
 📷 Image Description:
@@ -35,17 +34,17 @@
 
 <h2 align="center">Index of Cheatsheets and Resources</h2>
 
-- [New Project Setup](class-02/project_setup.md)
-- [README template](class-02/README-template.md)
-- [Git and GitHub Basics](class-02/git-and-github-basics-guide.md)
+- [New Project Setup](https://github.com/codefellows/seattle-201n21/blob/master/class-02/project_setup.md)
+- [README template](https://github.com/codefellows/seattle-201n21/blob/master/class-02/README-template.md)
+- [Git and GitHub Basics](https://github.com/codefellows/seattle-201n21/blob/master/class-02/git-and-github-basics-guide.md)
 - [CSS Everything Cheatsheet](https://overapi.com/css)
-- [CSS2 Cheat Sheet](cheat-sheets/css2-cheat-sheet.pdf)
-- [CSS3 Cheat Sheet](cheat-sheets/css3-cheat-sheet.pdf)
-- [HTML 5 Reference Tags](cheat-sheets/html5-reference-tags.jpg)
-- [HTML 5 Sectioning Flow Chart](cheat-sheets/html5-sectioning-flowchart.pdf)
+- [CSS2 Cheat Sheet](https://github.com/codefellows/seattle-201n21/blob/master/cheat-sheets/css2-cheat-sheet.pdf)
+- [CSS3 Cheat Sheet](https://github.com/codefellows/seattle-201n21/blob/master/cheat-sheets/css3-cheat-sheet.pdf)
+- [HTML 5 Reference Tags](https://github.com/codefellows/seattle-201n21/blob/master/cheat-sheets/html5-reference-tags.jpg)
+- [HTML 5 Sectioning Flow Chart](https://github.com/codefellows/seattle-201n21/blob/master/cheat-sheets/html5-sectioning-flowchart.pdf)
 - [Collection of Cheatsheets by overApi](https://overapi.com/)
-- [Javascript Structure](class-09/javascript-structure.md)
-- [Git - Handling Merge Conflicts](class-15/handling-merge-conflicts.md)
+- [Javascript Structure](https://github.com/codefellows/seattle-201n21/blob/master/class-09/javascript-structure.md)
+- [Git - Handling Merge Conflicts](https://github.com/codefellows/seattle-201n21/blob/master/class-15/handling-merge-conflicts.md)
 - [Post 201 Study Guide](https://github.com/codefellows/seattle-201n21/blob/master/class-15/post-201-study-guide.md)
 - [JSFIDDLE](https://jsfiddle.net/)
 

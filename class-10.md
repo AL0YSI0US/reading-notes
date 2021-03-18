@@ -6,7 +6,7 @@
 
 [<== Previous Lesson](class-09.md) [Next Lesson ==>](class-11.md)
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠
 
 ## Error Handling and Debugging
 
@@ -18,7 +18,7 @@ Debugging is all about refining the process of deduction
 
 The console narrows down where the error can be found the rest is on you
 
-> *hint: where does the code stop running?....* 
+> *hint: where does the code stop running?....*
 
 ## JavaScript Has 7 types of errors...
 
@@ -26,16 +26,16 @@ The console narrows down where the error can be found the rest is on you
 
 1. **RangeError** This is thrown when a number is outside an allowable range of values.
 2. **ReferenceError** This error is thrown when a reference made to a variable/item is broken. That is the variable/item doesn’t exist.
-2. **ReferenceError** This error is thrown when a reference made to a variable/item is broken. That is the variable/item doesn’t exist.
-5. **URIError** This indicates that one of the global URI handling functions was used in a way that is incompatible with its definition. URI (Uniform Resource Indicator) in JS has the functions: decodeURI, decodeURIComponent, etc. *If we call any of them with the wrong parameter we will get a URIError*
-6. **EvalError** This is used to identify errors when using the global eval() function.
-According to EcmaSpec 2018 edition: This exception is not currently used within this specification. This object remains for compatibility with previous editions of this specification.
-7. **InternalError** This error occurs internally in the JS engine, especially when it has too much data to handle and the stack grows way over its critical limit.
-This occurs when the JS engine is overwhelmed by too many recursions, too many switch cases, etc
+3. **ReferenceError** This error is thrown when a reference made to a variable/item is broken. That is the variable/item doesn’t exist.
+4. **URIError** This indicates that one of the global URI handling functions was used in a way that is incompatible with its definition. URI (Uniform Resource Indicator) in JS has the functions: decodeURI, decodeURIComponent, etc. *If we call any of them with the wrong parameter we will get a URIError*
+5. **EvalError** This is used to identify errors when using the global eval() function.
+   According to EcmaSpec 2018 edition: This exception is not currently used within this specification. This object remains for compatibility with previous editions of this specification.
+6. **InternalError** This error occurs internally in the JS engine, especially when it has too much data to handle and the stack grows way over its critical limit.
+   This occurs when the JS engine is overwhelmed by too many recursions, too many switch cases, etc
 
 7 Types of [Native Errors](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492) in JavaScript You Should Know
 
-## JavaScript Errors 
+## JavaScript Errors
 
 > Throw and Try to Catch
 
@@ -59,14 +59,14 @@ The JavaScript statements `try` and `catch` come in pairs:
 
 try {
 
-  *Block of code to try*
-  
+*Block of code to try*
+
 }
 
 catch(err) {
 
-  *Block of code to handle errors*
-  
+*Block of code to handle errors*
+
 }
 
 ## JavaScript Throws Errors
@@ -168,7 +168,6 @@ Mozilla and Microsoft defines some non-standard error object properties:
 
 [Complete Error Reference](https://www.w3schools.com/jsref/jsref_obj_error.asp) *w3schools.com*
 
-
 ## Reading
 
 **From the Duckett JS book:**
@@ -177,4 +176,4 @@ Mozilla and Microsoft defines some non-standard error object properties:
 
 [<== Previous Lesson](class-09.mdpm) [Next Lesson ==>](class-11.md)
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠

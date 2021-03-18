@@ -6,11 +6,11 @@
 
 [<== Previous Lesson](class-13.md) [Next Lesson ==>](class-15.md)
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠
 
 ## CSS Transforms, Transitions, and Animations
 
-## [CSS Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms/) 
+## [CSS Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
 ### 2D Rotate
 
@@ -22,7 +22,6 @@ The `transform` property accepts a handful of different values. The rotate value
 <figure class="box-1">`Box 1</figure>
 <figure class="box-2">`Box 2</figure>
 ````
-
 
 **CSS**
 
@@ -114,7 +113,6 @@ It is important to note, **not all properties may be transitioned**, only proper
 ```
 ````
 
-
 ````css
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:700);
 		*{
@@ -147,8 +145,8 @@ It is important to note, **not all properties may be transitioned**, only proper
 			text-shadow: 0 1px 3px rgba(0, 0, 0, 0.41);
 			box-shadow: 0 3px 0 0 #383838;
 			border:3px solid transparent;
-		
 	
+
 			animation: pulse 1s linear infinite alternate;
 			-webkit-animation: pulse 1s linear infinite alternate;
 		}
@@ -158,8 +156,8 @@ It is important to note, **not all properties may be transitioned**, only proper
 			box-shadow: 0 1px 0 0 #383838;
 			color: rgba(0, 0, 0,.45);
 			text-shadow: none;
-		
-		
+	
+	
 			-webkit-animation-play-state: paused; 
     	animation-play-state: paused;
 		}
@@ -168,8 +166,8 @@ It is important to note, **not all properties may be transitioned**, only proper
 			-webkit-animation-play-state: paused; 
     	animation-play-state: paused;
 		}
-	
-	
+
+
 		.blam:focus,
 		.blam:hover{
 			background-color:#0097bd;
@@ -178,7 +176,7 @@ It is important to note, **not all properties may be transitioned**, only proper
 			background-color:#00bff0;
 			border-color: #00bff0;
 		}
-	
+
 		.syke:focus,
 		.syke:hover{
 			background-color:#ad4e4e;
@@ -187,7 +185,7 @@ It is important to note, **not all properties may be transitioned**, only proper
 			background-color:#e06464;
 			border-color:#e06464;
 		}
-	
+
 		.later:focus,
 		.later:hover{
 			background-color:#7c8b8f;
@@ -196,7 +194,7 @@ It is important to note, **not all properties may be transitioned**, only proper
 			background-color:#a8bdc2;
 			border-color:#a8bdc2;
 		}
-	
+
 		@-webkit-keyframes pulse {
 			100% {
 				transform: translateY(6.9px); 
@@ -209,8 +207,6 @@ It is important to note, **not all properties may be transitioned**, only proper
 			} 
 		}
 ````
-
-
 
 ## [CSS3 Animations: Keyframes](http://codepen.io/akshaychauhan/pen/oAfae)
 
@@ -615,4 +611,4 @@ Read the following articles and/or review the following examples on CSS animatio
 
 [<== Previous Lesson](class-13.md) [Next Lesson ==>](class-15.md)
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠

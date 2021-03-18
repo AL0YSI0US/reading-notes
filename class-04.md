@@ -1,12 +1,12 @@
 # Code 201 Reading Notes
 
-## Class 4 
+## Class 4
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
 [<== Previous Lesson](class-03.md) [Next Lesson ==>](class-05.md)
 
-[<== Home](README.md) 
+[<== Home](README.md) 🏠
 
 ## HTML Links, JS Functions, and Intro to CSS Layout
 
@@ -32,14 +32,13 @@
 + The `<a>` tag uses the ``href` **Attribute** to indicate the page you are linking to
 + Linking to pages within your own site = Relative url with specified file path included in the url
 
-1. You can create links to open email programs. 
+1. You can create links to open email programs.
 2. You can create links to open a new window. (It is a good measure to include a disclaimer which informs the user that they will be directed elsewhere or may need pop up blocker to be disabled)
-3. You can use the **id** *attribute* to target *elements* within a page that can e linked to. 
-
-1. **emailto:** `<a href="mailto:aloysious@example.org">`Email Aloysious`</a>`
-2. **target** `<a href="http://imdb.com" target="_blank">`Internet Movie Database`</a>` (Opens in a new window)
-3. **id** (Link at **top** of page)`<h1 id="top>`Film Making Terms`</h1>`
-4.  **id** (Link at **bottom** of page)`<p>``<a href="#top">`Film Making Terms`</a>``</p>`
+3. You can use the **id** *attribute* to target *elements* within a page that can e linked to.
+4. **emailto:** `<a href="mailto:aloysious@example.org">`Email Aloysious`</a>`
+5. **target** `<a href="http://imdb.com" target="_blank">`Internet Movie Database`</a>` (Opens in a new window)
+6. **id** (Link at **top** of page)`<h1 id="top>`Film Making Terms`</h1>`
+7. **id** (Link at **bottom** of page)`<p>``<a href="#top">`Film Making Terms`</a>``</p>`
 
 ## Layout [Duckett HTML] (pp.358-404)
 
@@ -79,8 +78,8 @@
 The code to be executed, by the function, is placed inside curly brackets: **{}**
 
 function name(parameter1, parameter2, parameter3) `{`
- 
-  // code to be executed
+
+// code to be executed
 
 `}`
 
@@ -100,8 +99,7 @@ The code inside the function will execute when "something" **invokes** (calls) t
 - When it is invoked (called) from JavaScript code
 - Automatically (self invoked)
 
-
-**Function Return** 
+**Function Return**
 
 When JavaScript reaches a `return` statement, the function will stop executing.
 
@@ -143,19 +141,21 @@ The JavaScript `this` keyword refers to the object it belongs to.
 
 > Methods like `call()`, and `apply()` can refer `this` to **any object**. [this W3Schools](https://www.w3schools.com/js/js_this.asp)
 
-## Pair Programming 
+## Pair Programming
 
-The **Driver** is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the **Driver** manages the text editor, switching files, version control, and—of course writing—code. The ***Navigator*** uses their words to guide the **Driver** but does not provide any direct input to the computer. 
+The **Driver** is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the **Driver** manages the text editor, switching files, version control, and—of course writing—code. The ***Navigator*** uses their words to guide the **Driver** but does not provide any direct input to the computer.
 
 The **Navigator** thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. The **Navigator** might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code.
 
-## Reading 
+## Reading
 
 **From the Duckett HTML book:**
+
 + Chapter 4: Ch.4 “Links” (pp.74-93)
 + Chapter 15: “Layout” (pp.358-404)
 
 **From the Duckett JS book:**
+
 + Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
 + Article: [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
@@ -163,4 +163,4 @@ The **Navigator** thinks about the big picture, what comes next, how an algorith
 
 [<== Previous Lesson](class-03.md) [Next Lesson ==>](class-05.md)
 
-[<== Home](README.md) 
+[<== Home](README.md) 🏠

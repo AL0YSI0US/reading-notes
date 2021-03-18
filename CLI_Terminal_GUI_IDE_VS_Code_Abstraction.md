@@ -2,7 +2,7 @@ Update CLI / Terminal / GUI / IDE VS Code / Abstraction
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](git_vs_github_local_vs_remote_clone_commit_acp_vcs_deployment.md)
+[<== Home](README.md) 🏠 [Forward ==>](git_vs_github_local_vs_remote_clone_commit_acp_vcs_deployment.md)
 
 # The Coder's Computer
 
@@ -118,4 +118,4 @@ as important as the extension (the “.html” and the “.css”).**
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](git_vs_github_local_vs_remote_clone_commit_acp_vcs_deployment.md)
+[<== Home](README.md) 🏠 [Forward ==>](git_vs_github_local_vs_remote_clone_commit_acp_vcs_deployment.md)

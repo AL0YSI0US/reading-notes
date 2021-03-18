@@ -6,7 +6,7 @@
 
 [<== Previous Lesson](class-11.md) [Next Lesson ==>](class-13.md)
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠
 
 ## Docs for the HTML `<canvas>` Element & Chart.js
 
@@ -68,7 +68,6 @@ var buyerData = {
 	]
 }
 ````
-
 
 ## [Basic Usage of Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
 
@@ -140,7 +139,6 @@ position on the canvas (relative to the origin) of the top-left corner of the re
 width and height provide the rectangle's size.
 ````
 
-
 ## [Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 
 ````javascript
@@ -180,7 +178,6 @@ function draw() {
   }
 }
 ````
-
 
 ## [Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text#drawing_text "Permalink to Drawing text")
 
@@ -257,5 +254,4 @@ ctx.stroke();
 
 [<== Previous Lesson](class-11.md) [Next Lesson ==>](class-13.md)
 
-[<== Home](README.md
-)
+[<== Home](README.md) 🏠

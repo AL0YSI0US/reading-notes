@@ -2,7 +2,7 @@ How Computers Work
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](programming_with_jacascript.md)
+[<== Home](README.md) 🏠 [Forward ==>](programming_with_jacascript.md)
 
 ## How Computers Work
 
@@ -80,7 +80,7 @@ Hardware refers to the physical elements of a computer. This is also sometime ca
 
 ## Software
 
-![software](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/types-of-software.png) 
+![software](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/types-of-software.png)
 
 Software, commonly known as programs or apps, consists of all the instructions that tell the hardware how to perform a task. These instructions come from a software developer in the form that will be accepted by the platform (operating system + CPU) that they are based on.
 
@@ -88,4 +88,4 @@ Software, commonly known as programs or apps, consists of all the instructions t
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](programming_with_jacascript.md)
+[<== Home](README.md) 🏠 [Forward ==>](programming_with_jacascript.md)

@@ -2,7 +2,7 @@ Git vs Github / local vs Remote / Clone / Commit / ACP / VCS / Deployment
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](html_markup_semantics_wireframe_personas_meta_content_element_tag_attribute_structure_vs_presentation.md)
+[<== Home](README.md) 🏠 [Forward ==>](html_markup_semantics_wireframe_personas_meta_content_element_tag_attribute_structure_vs_presentation.md)
 
 ## Reading Notes
 
@@ -62,7 +62,7 @@ by accessing the manual:**
 | CVCS | The need for collaboration within a developer team on a single file or set of files led to the advent of the**Centralized Version Control System (CVCS)**. This system entails a single server storing all changes and file versions, which can be accessed by various clients. This streamlined the collaboration process (by eliminating the need to involve all local databases), allowed programmers to have more knowledge of team members’ activities with certain files, and gave administrators much more control over divvying up revision privileges. |
 | Git | (version control system) Git is a DVCS that stores data in a file system made up of***snapshots***. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it. |
 | Remote Repositories | In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from. |
-| Cloned Repositories | As mentioned earlier, for cloned repositories, Git will automatically give the name*“origin”* to the server from which you cloned and the name *“master”* to your local branch. |
+| Cloned Repositories | As mentioned earlier, for cloned repositories, Git will automatically give the name*“origin”* to the server from which you cloned and the name*“master”* to your local branch. |
 | Remote Clone | In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from. |
 | ACP | **ADD-COMMIT-PUSH** *This is the flow for making changes to the repository from the Terminal* |
 | Deployment | Git is a very popular version control system used to implement development workflows. The Cloudways Platform allows you to deploy code to your application from your git repositories. Your git repository must support git over SSH for this to work. |
@@ -108,4 +108,4 @@ The command above makes a copy of the target repository in a directory named “
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](html_markup_semantics_wireframe_personas_meta_content_element_tag_attribute_structure_vs_presentation.md)
+[<== Home](README.md) 🏠 [Forward ==>](html_markup_semantics_wireframe_personas_meta_content_element_tag_attribute_structure_vs_presentation.md)

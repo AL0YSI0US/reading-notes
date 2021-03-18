@@ -1,4 +1,6 @@
-## Meetup One: 
+[<== Home](README.md) 🏠
+
+## Meetup One:
 
 [SourceCred](https://sourcecred.io/) is a community in which most contributors are remote and work asynchronously, allowing anyone to contribute no matter their location and availability. We hold regularly scheduled calls, open to everyone, to cultivate a culture of joyful collaboration and meaningful connection between members. These calls have different specific purposes (and expectations), and are held on the SourceCred Discord server using the voice and video channels.
 
@@ -47,3 +49,6 @@ Github-fu....I saw this at the bottom of thier rpositoty....
 [User guide](http://swipeio.dev/) PS. at the moment only in Russian
 
 The seed was planted so I translated a page, missed the syntax on the first go-arount but have a solid idea of what they could use help with and know that overall it will benefit me too with practicing workflow, collaboration, user story from the visual learning perspective and github etc...
+
+
+[<== Home](README.md) 🏠

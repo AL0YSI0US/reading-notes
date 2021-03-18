@@ -2,7 +2,7 @@ Script / Expression / Operator / Function / Declaration / Call / Parameters / Ar
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](computer_logic_and_loops.md)
+[<== Home](README.md) 🏠 [Forward ==>](computer_logic_and_loops.md)
 
 # Programming with JavaScript
 
@@ -52,4 +52,4 @@ console.log("ALOYSIOUS TAKES REDONK READING NOTES!");
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](computer_logic_and_loops.md)
+[<== Home](README.md) 🏠 [Forward ==>](computer_logic_and_loops.md)

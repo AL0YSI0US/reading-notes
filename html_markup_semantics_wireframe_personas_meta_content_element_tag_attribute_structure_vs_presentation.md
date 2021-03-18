@@ -2,7 +2,7 @@ HTML / Markup / Semantics / Wireframe / Personas / Meta / Content / Element / Ta
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](style_web_pages_with_css.md)
+[<== Home](README.md) 🏠 [Forward ==>](style_web_pages_with_css.md)
 
 # Structure Web Pages with HTML
 
@@ -94,4 +94,4 @@ Used in conjunction with **CSS** to provide visual formatting. *Allows you to cr
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](style_web_pages_with_css.md)
+[<== Home](README.md) 🏠 [Forward ==>](style_web_pages_with_css.md)

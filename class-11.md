@@ -6,7 +6,7 @@
 
 [<== Previous Lesson](class-10.md) [Next Lesson ==>](class-12.md)
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠
 
 ## Images HTML book: (pp.406-427)
 
@@ -38,7 +38,7 @@ Domain required for web hosting.
 
 FTP orograms allow you to transfer files from local computer to the web.
 
-## Are you down with FTP? 
+## Are you down with FTP?
 
 ### How to use FTP for File Transfer:
 
@@ -107,4 +107,4 @@ This [MDN article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Cli
 
 [<== Previous Lesson](class-10.md) [Next Lesson ==>](class-12.md)
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠
