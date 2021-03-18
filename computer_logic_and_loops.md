@@ -2,7 +2,7 @@ Loop / While / For / Condition / Increment / Decrement
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](career_coaching.md)
+[<== Home](README.md) 🏠 [Forward ==>](career_coaching.md)
 
 ## Comparison Operators: Evaluating Conditions
 
@@ -119,4 +119,4 @@ Duckett: JavaScript & jQuery:
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](career_coaching.md)
+[<== Home](README.md) 🏠 [Forward ==>](career_coaching.md)

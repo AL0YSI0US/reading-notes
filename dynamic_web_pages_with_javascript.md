@@ -2,7 +2,7 @@ JavaScript / Conditionals / Operators / Data Types / Variable
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](programming_with_jacascript.md)
+[<== Home](README.md) 🏠 [Forward ==>](programming_with_jacascript.md)
 
 # Dynamic Web Pages with JavaScript
 
@@ -296,4 +296,4 @@ Non-primitive data types are called reference types because they refer to object
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](programming_with_jacascript.md)
+[<== Home](README.md) 🏠 [Forward ==>](programming_with_jacascript.md)

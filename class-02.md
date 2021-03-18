@@ -6,7 +6,7 @@
 
 [<== Previous Lesson](class-01.md) [Next Lesson ==>](class-03.md)
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠
 
 ## Introducing CSS / Basic JavaScript Instructions / Decisions and Loops
 
@@ -315,4 +315,4 @@ From the Duckett JS book:
 
 [<== Previous Lesson](class-01.md) [Next Lesson ==>](class-03.md)
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠

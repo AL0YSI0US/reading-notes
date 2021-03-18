@@ -27,7 +27,7 @@
 | [MOD 8](computer_logic_and_loops.md) | Loop / While / For / Condition / Increment / Decrement |
 | [MOD 9](career_coaching.md) | Career Coaching |
 | [MOD X](How_computers_work.md) | How Computers Work |
-| [MOD X](growth-mindeset.md) | The Growth Mindset |
+| [MOD X.X](growth-mindeset.md) | The Growth Mindset |
 
 [<== Home](README.md) :house_with_garden:
 

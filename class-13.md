@@ -6,9 +6,7 @@
 
 [<== Previous Lesson](class-12.md) [Next Lesson ==>](class-14.md)
 
-[<== Home](README.md)
-
-
+[<== Home](README.md) 🏠
 
 ## [HTML5 and Local Storage](https://www.dummies.com/web-design-development/site-development/html5-and-local-storage/) | dummies.com
 
@@ -105,4 +103,4 @@ typeof Math.sin === 'function';
 
 [<== Previous Lesson](class-12.md) [Next Lesson ==>](class-14.md)
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠

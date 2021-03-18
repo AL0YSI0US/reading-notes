@@ -1,19 +1,18 @@
 # Code 201 Reading Notes
 
-## Class 6 
+## Class 6
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
 [<== Previous Lesson](class-05.md) [Next Lesson ==>](class-07.md)
 
-[<== Home](README.md) 
+[<== Home](README.md) 🏠
 
 ## The DOM, Domain Modeling, and Introduction to Objects
 
 ![betterDom](https://info340.github.io/img/html/dom-tree.jpg)
 
 [The problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
-
 
 ## Object Literals (pp.100-105) [Duckett JavaScript]
 
@@ -23,7 +22,7 @@ An object literal is a list of name:value pairs (like `age:50`) inside curly bra
 
 The following example creates a new JavaScript object with four properties:
 
-**Example** 
+**Example**
 
 `var` `person` `=` `{firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};`
 
@@ -42,7 +41,6 @@ The following example also creates a new JavaScript object with four properties:
 `person.age` `=` `50;`
 
 `person.eyeColor` `=` `"blue";`
-
 
 > In JavaScript, objects are king. If you understand objects, you understand JavaScript.
 
@@ -75,7 +73,7 @@ The following example also creates a new JavaScript object with four properties:
 
 > Primitive values are immutable (they are hardcoded and therefore cannot be changed).
 
-if **x = 3.14**, you ***can*** change the value of **x**. 
+if **x = 3.14**, you ***can*** change the value of **x**.
 
 - But you **cannot** change the value of **3.14**.
 
@@ -106,11 +104,11 @@ There are different ways to create new objects:
 + Selecting an element by TAG name (pp.201)
 + Selecting an element using CSS selectors (pp.202-203)
 
->This topic is huuuuuuuuge oOf.  `<(^.^)>` refer to (pp.239)
+> This topic is huuuuuuuuge oOf.  `<(^.^)>` refer to (pp.239)
 
 [What is the DOM? - Medium Article](https://medium.com/@ReaganCuthbert/what-is-the-document-object-model-dom-87d552e27305)
 
-## Reading 
+## Reading
 
 **From the Duckett JavaScript book:**
 
@@ -119,4 +117,4 @@ There are different ways to create new objects:
 
 [<== Previous Lesson](class-05.md) [Next Lesson ==>](class-07.md)
 
-[<== Home](README.md) 
+[<== Home](README.md) 🏠

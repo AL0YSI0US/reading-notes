@@ -6,7 +6,7 @@
 
 [<== Previous Lesson](class-06.md) [Next Lesson ==>](class-08.md)
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠
 
 ## Intro to Object-Oriented Programming with Constructor Functions; HTML Tables
 
@@ -28,21 +28,21 @@
 ## Objects JS Book (pp.100-128)
 
 + An **object** is a series of varibles and functions that represent the world around you.
-+ In an object, variables are known as ***properties*** of the object; functions are known as ***methods*** of the  object. 
++ In an object, variables are known as ***properties*** of the object; functions are known as ***methods*** of the  object.
 
 In real life, a car is an object.
 
 A car has properties like weight and color, and methods like start and stop:
 
 **Object	Properties	Methods**
-	
+
 car.name = Fiat
 
 car.model = 500
 
 car.weight = 850kg
 
-car.color = white	
+car.color = white
 
 car.start()
 
@@ -86,13 +86,13 @@ Example
 
 var person = {
 
-  firstName: "John",
+firstName: "John",
 
-  lastName: "Doe",
+lastName: "Doe",
 
-  age: 50,
+age: 50,
 
-  eyeColor: "blue"
+eyeColor: "blue"
 
 };
 
@@ -134,9 +134,6 @@ A JavaScript method is a property containing a function definition.
 
 [Methods CW3 Schools](https://www.w3schools.com/js/js_object_methods.asp)
 
-
-
-
 **From the Duckett HTML book**:
 
 + Chapter 6: “Tables” (pp.126-145)
@@ -147,5 +144,4 @@ A JavaScript method is a property containing a function definition.
 
 [<== Previous Lesson](class-06.md) [Next Lesson ==>](class-08.md)
 
-[<== Home](README.md)
-
+[<== Home](README.md) 🏠

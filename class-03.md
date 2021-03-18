@@ -1,26 +1,25 @@
 # Code 201 Reading Notes
 
-## Class 3 
+## Class 3
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
 [<== Previous Lesson](class-02.md) [Next Lesson ==>](class-04.md)
 
-[<== Home](README.md) 
+[<== Home](README.md) 🏠
 
 ## HTML Lists, Control Flow with JS, and the CSS Box Model
 
 ![lists](https://www.mactale.com/images/css-li-styling-techniques/list-markers.jpg)
 
-## Lists 
+## Lists
 
 + There are three types of HTML lists: **ordered, unordered, and definition**.
 + **Ordered** lists use **numbers**
 + **Unordered** lists use **bullets**
 + **Definition** lists are used to define terminology
-+  ***Lists can be nestled inside one another*** (jsBook pg. 72)
-+ Browser automatically indents lists. 
-
++ ***Lists can be nestled inside one another*** (jsBook pg. 72)
++ Browser automatically indents lists.
 
 [Lists CW3 Schools](https://www.w3schools.com/css/css_list.asp)
 
@@ -32,36 +31,36 @@
 + **Padding** - Clears an area around the content. The padding is transparent
 + **Border** - A border that goes around the padding and content
 + **Margin** - Clears an area outside the border. The margin is transparent
-+ **The box model** allows us to add a border around elements, and to define space between elements. 
-+ CSS treats Each 
++ **The box model** allows us to add a border around elements, and to define space between elements.
++ CSS treats Each
 
 [show every box with this code]
 
 `* {`
-   `border: 1px solid red !important;`
+`border: 1px solid red !important;`
 `}`
 
 ## Box Examples
+
 `div {`
 
-  `width: 320px;`
+`width: 320px;`
 
-  `padding: 10px;`
+`padding: 10px;`
 
-  `border: 5px solid gray;`
+`border: 5px solid gray;`
 
-  `margin: 0;`
+`margin: 0;`
 
 `}`
 
+320px (width)
 
- 320px (width)
+20px (left + right padding)
 
- 20px (left + right padding)
+10px (left + right border)
 
- 10px (left + right border)
-
- 0px (left + right margin)
+0px (left + right margin)
 
 = **350px**
 
@@ -79,15 +78,16 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 ## Array Properties
 
-| ***Property*** | Description | 
-|  :----: |  ----  |   
-|  **constructor**  | Returns the function that created the Array object's prototype  | 
-|  **length**  | Sets or returns the number of elements in an array  |
-|  **prototype**  | Allows you to add properties and methods to an Array object  |
+
+| ***Property*** | Description |
+| :-: | - |
+| **constructor** | Returns the function that created the Array object's prototype |
+| **length** | Sets or returns the number of elements in an array |
+| **prototype** | Allows you to add properties and methods to an Array object |
 
 Values in an array are accessed if they are in a numbered list. It is important to know that the numbering of this list starts a\t zero (not one).
 
-[Array Methods CW3 Schools](https://www.w3schools.com/jsref/jsref_obj_array.asp) 
+[Array Methods CW3 Schools](https://www.w3schools.com/jsref/jsref_obj_array.asp)
 
 [Boolean Practice Class 3](https://github.com/codefellows/seattle-201n21/blob/master/class-03/boolean-practice.md)
 
@@ -105,4 +105,4 @@ Values in an array are accessed if they are in a numbered list. It is important 
 
 [<== Previous Lesson](class-02.md) [Next Lesson ==>](class-04.md)
 
-[<== Home](README.md) 
+[<== Home](README.md) 🏠

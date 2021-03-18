@@ -6,7 +6,7 @@
 
 [<== Previous Lesson](class-08.md) [Next Lesson ==>](class-10.md)
 
-[<== Home](README.md) 
+[<== Home](README.md) 🏠
 
 ## HTML Forms and JS Events
 
@@ -91,4 +91,4 @@ The event object has methods that change: the default behavior of an element and
 
 [<== Previous Lesson](class-08.md) [Next Lesson ==>](class-10.md)
 
-[<== Home](README.md) 
+[<== Home](README.md) 🏠

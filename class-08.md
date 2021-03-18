@@ -6,7 +6,7 @@
 
 [<== Previous Lesson](class-07.md) [Next Lesson ==>](class-09.md)
 
-[<== Home](README.md) 
+[<== Home](README.md) 🏠
 
 ## CSS Layout
 
@@ -38,8 +38,8 @@ Each declaration includes a CSS property name and a value, separated by a colon.
 
 Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
 
-
 **There are three ways of inserting a style sheet:**
+
 + External CSS
 + Internal CSS
 + Inline CSS
@@ -89,4 +89,4 @@ All the styles in a page will "cascade" into a new "virtual" style sheet by the 
 
 [<== Previous Lesson](class-07.md) [Next Lesson ==>](class-09.md)
 
-[<== Home](README.md) 
+[<== Home](README.md) 🏠

@@ -2,7 +2,7 @@ CSS / RGB / HSL / Hex codes / Layout / Rule / Selector / Property & value / Curl
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](dynamic_web_pages_with_javascript.md)
+[<== Home](README.md) 🏠 [Forward ==>](dynamic_web_pages_with_javascript.md)
 
 # Style Web Pages with CSS
 

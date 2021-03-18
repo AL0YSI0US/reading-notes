@@ -1,10 +1,10 @@
 # Code 201 Reading Notes
 
-## Class 1 
+## Class 1
 
 [Class 1 Instructor's Repo](https://github.com/codefellows/seattle-201n21/tree/master/class-01)
 
-[<== Home](README.md) 
+[<== Home](README.md) 🏠
 
 [Next Lesson ==> ](class-02.md)
 
@@ -77,7 +77,6 @@ The < **script** > element is used to define client-side JavaScripts ***Defines 
 
 The < **base** > element specifies the base URL and/or target for all relative URLs in a page ***Defines a default address or a default target for all links on a page***
 
-
 ## HTML Chapter 18: "Process & Design" (pp.452-475)
 
 [The web design process in 7 steps](https://webflow.com/blog/the-web-design-process-in-7-simple-steps)
@@ -94,3 +93,5 @@ The < **base** > element specifies the base URL and/or target for all relative U
 
 - Introduction
 - JS Chapter 1: "The ABC of Programming" (pp.11-52)
+
+[<== Home](README.md) 🏠

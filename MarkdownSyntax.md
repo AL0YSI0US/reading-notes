@@ -2,7 +2,7 @@ Markdown Syntax
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](CLI_Terminal_GUI_IDE_VS_Code_Abstraction.md)
+[<== Home](README.md) 🏠 [Forward ==>](CLI_Terminal_GUI_IDE_VS_Code_Abstraction.md)
 
 [Git Master Cheat](https://overapi.com/git)
 
@@ -74,7 +74,7 @@ To see more information on markdown syntax from John Gruber, visit  this page [D
 
 [Code 102 Table of Contents](CodeFellows_102.md)
 
-[<== Home](README.md) [Forward ==>](CLI_Terminal_GUI_IDE_VS_Code_Abstraction.md)
+[<== Home](README.md) 🏠 [Forward ==>](CLI_Terminal_GUI_IDE_VS_Code_Abstraction.md)
 
 [syntax]: /projects/markdown/syntax
 [dingus]: /projects/markdown/dingus
