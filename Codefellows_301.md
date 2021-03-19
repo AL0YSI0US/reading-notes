@@ -10,7 +10,7 @@
 
 💻 - [GitHub Portfolio](https://github.com/AL0YSI0US)
 
-📁 - [102 Class Repo](https://github.com/codefellows/seattle-102w10) 📁 - [201 Class Repo](https://github.com/codefellows/seattle-201n21) 📁 - [301 Class Resource](https://github.com/codefellows/seattle-javascript-401d29)
+📁 - [102 Class Repo](https://github.com/codefellows/seattle-102w10) 📁 - [201 Class Repo](https://github.com/codefellows/seattle-201n21) 📁 - [301 Class Repo](https://github.com/codefellows/seattle-code-301n21?fbclid=IwAR2Qd3zRLS95T-yT1K08SwKv558tICKsNONwSJW1ksXNLwFuztgZzVcr_UU)
 
 💼 - [Linkedin Profile](https://www.linkedin.com/in/a-todd-charliemike/)
 
@@ -24,11 +24,15 @@
 
 ## 📚 Reading Notes || Table of contents
 
-[Class One](retrospectives.md) - SMACSS and Responsive Web Design {**retrospectives**}
+[Class One](class1.md) - Introduction to React and Components
 
-[Class Two](states-props.md) - States and Props
+[Class Two](class2.md) - States and Props
 
-[Class Three]()
+[Class Three](class3.md) - Passing Functions as Props
+
+[Class Four](class4.md) - React and Forms
+
+[Class Five](class5.md) - React Docs
 
 ![myFace](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
