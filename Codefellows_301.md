@@ -24,15 +24,19 @@
 
 ## 📚 Reading Notes || Table of contents
 
-[Class One](class1.md) - Introduction to React and Components
+[Class One](class1.md) - **Introduction to React and Components**
 
-[Class Two](class2.md) - States and Props
++ [ES6 Classes](ES6classes.md)
++ [Readings and Resources](ES6classesResources.md) : **ES6 Classes**
 
-[Class Three](class3.md) - Passing Functions as Props
+[Class Two](class2.md) - **States and Props**
 
-[Class Four](class4.md) - React and Forms
+[Class Three](class3.md) - **Passing Functions as Props**
 
-[Class Five](class5.md) - React Docs
+[Class Four](class4.md) - **React and Forms**
+
+[Class Five](class5.md) - **React Docs**
+
 
 ![myFace](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
@@ -57,6 +61,10 @@
 - [Git - Handling Merge Conflicts](https://github.com/codefellows/seattle-201n21/blob/master/class-15/handling-merge-conflicts.md)
 - [Post 201 Study Guide](https://github.com/codefellows/seattle-201n21/blob/master/class-15/post-201-study-guide.md)
 - [JSFIDDLE](https://jsfiddle.net/)
+
+---
+
+
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/AL0YSI0US/" property="cc:attributionName" rel="cc:attributionURL">AL0YSI0US</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
