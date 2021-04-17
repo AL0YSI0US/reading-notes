@@ -37,6 +37,12 @@
 
 [Class Five](class5.md) - **React Docs**
 
+[Class Six](class6.md) - **NODE.JS**
+
+[Class Seven](class7.md) - **REST**
+
+[Class Eight](class8.md) - **API's**
+
 ---
 
 ### Power Hours
