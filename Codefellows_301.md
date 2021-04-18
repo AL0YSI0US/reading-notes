@@ -43,6 +43,10 @@
 
 [Class Eight](class8.md) - **API's**
 
+[Class Nine](class9.md) - **Functional Programming**
+
+[Class Ten](class10.md) - 
+
 ---
 
 ### Power Hours
