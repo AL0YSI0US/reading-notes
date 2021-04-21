@@ -45,7 +45,7 @@
 
 [Class Nine](class9.md) - **Functional Programming**
 
-[Class Ten](class10.md) - 
+[Class Ten](class10.md) - **In memory storage**
 
 ---
 
