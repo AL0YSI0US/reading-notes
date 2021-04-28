@@ -16,13 +16,15 @@
 
 ---
 
-#### Projects | [Templates](https://github.com/AL0YSI0US/templates/blob/main/README.md) | [Tech Events Calendar](https://github.com/AL0YSI0US/aloysious-the-ambitious/blob/main/README.md) | [README](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md)
+## Projects | [Templates](https://github.com/AL0YSI0US/templates/blob/main/README.md) | [Tech Events Calendar](https://github.com/AL0YSI0US/aloysious-the-ambitious/blob/main/README.md) | [README](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md) </div>
 
 ---
 
 > ### Intermediate Software Development 20 MAR - 20 MAY
 
-## 📚 Reading Notes || Table of contents
+<div align="center">
+  
+<h2>📚 Reading Notes || Table of contents</h2>
 
 [Class One](class1.md) - **Introduction to React and Components**
 
@@ -57,11 +59,9 @@
 
 [Class Fifteen](class15.md) - **Project Kickoff**
 
+</div>
+
 ---
-
-### Power Hours
-
-[Chance Harmon]() - [Data Scraping]()
 
 ![myFace](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
