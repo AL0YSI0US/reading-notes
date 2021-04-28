@@ -26,8 +26,9 @@
 
 [Class One](class1.md) - **Introduction to React and Components**
 
-+ [ES6 Classes](ES6classes.md)
-+ [Readings and Resources](ES6classesResources.md) : **ES6 Classes**
+⦾ [ES6 Classes](ES6classes.md)
+
+⦾ [Readings and Resources](ES6classesResources.md) : **ES6 Classes**
 
 [Class Two](class2.md) - **States and Props**
 
