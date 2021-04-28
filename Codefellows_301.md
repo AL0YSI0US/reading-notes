@@ -47,6 +47,16 @@
 
 [Class Ten](class10.md) - **In memory storage**
 
+[Class Eleven](class11.md) - **Authentication**
+
+[Class Twelve](class12.md) - **Mongo and Mongoose**
+
+[Class Thirteen](class13.md) - **Crud**
+
+[Class Fourteen](class14.md) - **Project Ideas**
+
+[Class Fifteen](class15.md) - **Project Kickoff**
+
 ---
 
 ### Power Hours
