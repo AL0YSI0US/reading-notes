@@ -12,7 +12,7 @@
 
 ---
 
-#### Projects | [Templates](https://github.com/AL0YSI0US/templates/blob/main/README.md) | [Tech Events Calendar](https://github.com/AL0YSI0US/aloysious-the-ambitious/blob/main/README.md) | [README](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md)
+#### Projects | [Templates](https://github.com/AL0YSI0US/templates/blob/main/README.md) | [Tech Events Calendar](https://github.com/AL0YSI0US/aloysious-the-ambitious/blob/main/README.md) | [README](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md) [**SOURCE CRED**](https://sourcecred.io/docs/)
 
 ## 📚 Reading Notes || Table of contents
 
