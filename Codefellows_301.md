@@ -71,7 +71,6 @@
 *sun kisses their only visible eye, they are happy.*
 
 <h2 align="center">Index of Cheatsheets and Resources</h2>
-<div align="center">
 
 - [New Project Setup](https://github.com/codefellows/seattle-201n21/blob/master/class-02/project_setup.md)
 - [README template](https://github.com/codefellows/seattle-201n21/blob/master/class-02/README-template.md)
@@ -86,8 +85,6 @@
 - [Git - Handling Merge Conflicts](https://github.com/codefellows/seattle-201n21/blob/master/class-15/handling-merge-conflicts.md)
 - [Post 201 Study Guide](https://github.com/codefellows/seattle-201n21/blob/master/class-15/post-201-study-guide.md)
 - [JSFIDDLE](https://jsfiddle.net/)
-
-</div>
 
 ---
 
