@@ -26,9 +26,9 @@
 
 [Class One](class1.md) - **Introduction to React and Components**
 
-⦾ [ES6 Classes](ES6classes.md)
+[ES6 Classes](ES6classes.md)
 
-⦾ [Readings and Resources](ES6classesResources.md) : **ES6 Classes**
+[Readings and Resources](ES6classesResources.md) : **ES6 Classes**
 
 [Class Two](class2.md) - **States and Props**
 
@@ -59,8 +59,6 @@
 [Class Fifteen](class15.md) - **Project Kickoff**
 
 </div>
-
----
 
 ![myFace](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
