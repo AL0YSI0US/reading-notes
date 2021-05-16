@@ -16,7 +16,7 @@
 
 ---
 
-### Projects | [Templates](https://github.com/AL0YSI0US/templates/blob/main/README.md) | [Tech Events Calendar](https://github.com/AL0YSI0US/aloysious-the-ambitious/blob/main/README.md) | [README](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md) </div>
+### Projects | [Templates](https://github.com/AL0YSI0US/templates/blob/main/README.md) | [Tech Events Calendar](https://github.com/AL0YSI0US/aloysious-the-ambitious/blob/main/README.md) | [README](https://github.com/AL0YSI0US/AL0YSI0US/blob/main/README.md) 
 
 > ### Intermediate Software Development 20 MAR - 20 MAY
 
