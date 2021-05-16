@@ -20,7 +20,7 @@
 
 > ### Intermediate Software Development 20 MAR - 20 MAY
 
-<div align="center">
+
   
 <h2>📚 Reading Notes || Table of contents</h2>
 
@@ -58,7 +58,7 @@
 
 [Class Fifteen](class15.md) - **Project Kickoff**
 
-</div>
+
 
 ![myFace](https://miro.medium.com/max/121/1*uNH6r8IUEzVFGI2dYZUPCQ.jpeg)
 
