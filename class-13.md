@@ -99,7 +99,7 @@ typeof Math.sin === 'function';
 
 ### Reading
 
-[The past, present & future of local storage for web applications](http://diveinto.html5doctor.com/storage.html) *dive into html doctor*
+[The past, present & future of local storage for web applications](http://diveinto.html5doctor.com/storage.html) - *dive into html doctor*
 
 [<== Previous Lesson](class-12.md) [Next Lesson ==>](class-14.md)
 
