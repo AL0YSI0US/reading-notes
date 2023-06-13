@@ -44,6 +44,7 @@
 - [Git - Handling Merge Conflicts](https://github.com/codefellows/seattle-201n21/blob/master/class-15/handling-merge-conflicts.md)
 - [Post 201 Study Guide](https://github.com/codefellows/seattle-201n21/blob/master/class-15/post-201-study-guide.md)
 - [JSFIDDLE](https://jsfiddle.net/)
+- [HTML Elements](https://medium.com/design-code-repository/html-elements-section-vs-div-vs-article-a8c34e6548cf)
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/AL0YSI0US/" property="cc:attributionName" rel="cc:attributionURL">AL0YSI0US</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
